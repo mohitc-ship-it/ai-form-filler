@@ -1,0 +1,114 @@
+[
+  {
+    "field": "Address",
+    "value": "Magnolia Road 2450 S. 9th Street, Salina, KS 67401",
+    "explanation": "Exact address identified in survey and lease description for Mid State Plaza location",
+    "source": "Salina 2015 Survey- FINAL- 05282015.pdf"
+  },
+  {
+    "field": "City, State",
+    "value": "Salina, Kansas",
+    "explanation": "City and state derived from property description in lease and survey",
+    "source": "Sunflower Bank- Lease.PDF and Survey"
+  },
+  {
+    "field": "Tenant",
+    "value": "Sunflower Bank, N.A. First National Bank and Trust Company" ,
+    "explanation": "Tenant identified as successor to First National Bank and Trust Company of Salina",
+    "source": "Sunflower Bank- Lease Amendment No. 3.PDF and Fourth Amendment (2023)"
+  },
+  {
+    "field": "Annual Rent",
+    "value": "$134,090 (Years 1–5), $146,280 (Years 6–10)",
+    "explanation": "Annual rent terms per Fourth Amendment extending lease through 2033",
+    "source": "Sunflower Bank- Lease Amendment No. 4.pdf"
+  },
+  {
+    "field": "Lease Expiration",
+    "value": "July 31, 2033",
+    "explanation": "End of 10-year extension term per Fourth Amendment",
+    "source": "Sunflower Bank- Lease Amendment No. 4.pdf"
+  },
+  {
+    "field": "Term Remaining",
+    "value": "Approximately 8 years (as of 2025)",
+    "explanation": "Calculated from lease end date (2033) minus current date (2025)",
+    "source": "Derived from Fourth Amendment term"
+  },
+  {
+    "field": "Building Square Footage",
+    "value": "2,871.4 sq. ft.",
+    "explanation": "Building footprint confirmed in 2015 ALTA Survey",
+    "source": "Salina 2015 Survey- FINAL- 05282015.pdf"
+  },
+  {
+    "field": "Parcel Size (AC)",
+    "value": "0.52 acres",
+    "explanation": "Land area from legal description in Short Form Lease",
+    "source": "Sunflower Bank- Short Form Lease.PDF"
+  },
+  {
+    "field": "Lease Type",
+    "value": "Ground Lease (NNN)",
+    "explanation": "Tenant responsible for taxes, insurance, and maintenance under original and amended lease terms",
+    "source": "Sunflower Bank- Lease.PDF Articles V–VII"
+  },
+  {
+    "field": "Landlord Responsibilities",
+    "value": "Minimal – ownership of underlying land and approval rights; tenant covers all operating, maintenance, insurance, and tax obligations.",
+    "explanation": "Summarized from lease and amendments; no CAM or operational landlord duties indicated",
+    "source": "Sunflower Bank- Lease.PDF and Fourth Amendment"
+  },
+  {
+    "field": "Branch Deposits",
+    "value": "Not available",
+    "explanation": "Branch deposit information not included in any lease or survey documentation",
+    "source": "Not available in provided PDFs"
+  },
+  {
+    "type": "table",
+    "title": "Rent Schedule",
+    "data": {
+      "headers": [
+        "Tenant",
+        "Square Feet",
+        "Commencement Date",
+        "Expiration Date",
+        "Step Up Date",
+        "Annual Rent / PSF"
+      ],
+      "rows": [
+        [
+          "Sunflower Bank, N.A.",
+          "2,871.4",
+          "August 1, 2023",
+          "July 31, 2028",
+          "$22.00 PSF",
+          "$134,090"
+        ],
+        [
+          "Sunflower Bank, N.A.",
+          "2,871.4",
+          "August 1, 2028",
+          "July 31, 2033",
+          "$24.00 PSF",
+          "$146,280"
+        ]
+      ]
+    },
+    "explanation": "Rent schedule derived from 2023 Fourth Amendment showing two 5-year rent brackets",
+    "source": "Sunflower Bank- Lease Amendment No. 4.pdf"
+  },
+  {
+    "field": "Strengths",
+    "value": "Long-term banking tenant (50+ years); strong credit regional bank; recently extended lease through 2033; ground lease with minimal landlord expense exposure; high-visibility site in Mid State Plaza.",
+    "explanation": "Compiled from lease history and site details",
+    "source": "Comprehensive summary from all Sunflower Bank lease documents"
+  },
+  {
+    "field": "Weaknesses",
+    "value": "Small building footprint limits redevelopment potential; no renewal options beyond 2033; limited rent escalation (5-year intervals); no percentage rent component.",
+    "explanation": "Identified from financial and structural lease review",
+    "source": "Derived from Sunflower Bank- Lease Amendment No. 4.pdf and earlier documents"
+  }
+]

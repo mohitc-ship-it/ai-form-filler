@@ -1,0 +1,2112 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    220,
+                    283,
+                    1447,
+                    283,
+                    1447,
+                    440,
+                    220,
+                    440
+                ],
+                "score": 0.97
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    221,
+                    549,
+                    1442,
+                    549,
+                    1442,
+                    664,
+                    221,
+                    664
+                ],
+                "score": 0.97
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    413,
+                    1299,
+                    1454,
+                    1299,
+                    1454,
+                    1410,
+                    413,
+                    1410
+                ],
+                "score": 0.959
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    315,
+                    1108,
+                    1097,
+                    1108,
+                    1097,
+                    1266,
+                    315,
+                    1266
+                ],
+                "score": 0.959,
+                "html": "<table><tr><td>Term</td><td>AnnualRent</td><td>Monthly Rent</td></tr><tr><td>2/1/06-1/31/11</td><td>$84,000.00</td><td>$7,000.00</td></tr><tr><td>2/1/11-1/31/16</td><td>$92,400.00</td><td>$7,700.00</td></tr></table>"
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    307,
+                    1820,
+                    1392,
+                    1820,
+                    1392,
+                    1896,
+                    307,
+                    1896
+                ],
+                "score": 0.953
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    223,
+                    810,
+                    1448,
+                    810,
+                    1448,
+                    888,
+                    223,
+                    888
+                ],
+                "score": 0.952
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    314,
+                    1631,
+                    1196,
+                    1631,
+                    1196,
+                    1788,
+                    314,
+                    1788
+                ],
+                "score": 0.952,
+                "html": "<table><tr><td>Term</td><td>AnnualRent</td><td>MonthlyRent</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Option 1(2/1/16-1/31/21)</td><td>$101,640.00</td><td>$8,470.00</td></tr><tr><td>Option2(2/1/21-1/31/26)</td><td>$111,804.00</td><td>$9,317.00</td></tr></table>"
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    222,
+                    698,
+                    1448,
+                    698,
+                    1448,
+                    775,
+                    222,
+                    775
+                ],
+                "score": 0.945
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    315,
+                    1446,
+                    1447,
+                    1446,
+                    1447,
+                    1599,
+                    315,
+                    1599
+                ],
+                "score": 0.942
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    317,
+                    922,
+                    1449,
+                    922,
+                    1449,
+                    1074,
+                    317,
+                    1074
+                ],
+                "score": 0.928
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    216,
+                    2007,
+                    342,
+                    2007,
+                    342,
+                    2031,
+                    216,
+                    2031
+                ],
+                "score": 0.876
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    699,
+                    472,
+                    984,
+                    472,
+                    984,
+                    514,
+                    699,
+                    514
+                ],
+                "score": 0.559
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    699,
+                    472,
+                    984,
+                    472,
+                    984,
+                    514,
+                    699,
+                    514
+                ],
+                "score": 0.287
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    605,
+                    169,
+                    1080,
+                    169,
+                    1080,
+                    210,
+                    605,
+                    210
+                ],
+                "score": 0.273
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1111,
+                    115,
+                    1494,
+                    115,
+                    1494,
+                    208,
+                    1111,
+                    208
+                ],
+                "score": 0.212
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    682,
+                    585,
+                    736,
+                    585,
+                    736,
+                    623,
+                    682,
+                    623
+                ],
+                "score": 0.73,
+                "latex": "7 7 ^ { \\mathrm { t h } }"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    218.0,
+                    2008.0,
+                    345.0,
+                    2008.0,
+                    345.0,
+                    2031.0,
+                    218.0,
+                    2031.0
+                ],
+                "score": 0.999,
+                "text": "KSAAM612.0405"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    699.0,
+                    473.0,
+                    987.0,
+                    473.0,
+                    987.0,
+                    513.0,
+                    699.0,
+                    513.0
+                ],
+                "score": 0.998,
+                "text": "WITNESSETH"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    602.0,
+                    170.0,
+                    1083.0,
+                    170.0,
+                    1083.0,
+                    209.0,
+                    602.0,
+                    209.0
+                ],
+                "score": 0.997,
+                "text": "FIRSTAMENDMENTTOLEASE"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1098.0,
+                    106.5,
+                    1510.0,
+                    106.5,
+                    1510.0,
+                    204.5,
+                    1098.0,
+                    204.5
+                ],
+                "score": 0.521,
+                "text": "tei9"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    315.0,
+                    284.0,
+                    1153.0,
+                    284.0,
+                    1153.0,
+                    328.0,
+                    315.0,
+                    328.0
+                ],
+                "score": 0.966,
+                "text": "THISFIRSTAMENDMENTTOLEASE made this__dayof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    218.0,
+                    327.0,
+                    1447.0,
+                    327.0,
+                    1447.0,
+                    361.0,
+                    218.0,
+                    361.0
+                ],
+                "score": 0.99,
+                "text": "2005,byandbetween TRANSPORTATIONPLAZAASSOCIATES,aConnecticutLimited"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    217.0,
+                    364.0,
+                    1390.0,
+                    364.0,
+                    1390.0,
+                    402.0,
+                    217.0,
+                    402.0
+                ],
+                "score": 0.967,
+                "text": "Partnership(“Landlord\"),andGMRI,INC.,f/k/a GENERALMILLSRESTAURANTS,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    220.0,
+                    400.0,
+                    745.0,
+                    400.0,
+                    745.0,
+                    443.0,
+                    220.0,
+                    443.0
+                ],
+                "score": 0.946,
+                "text": "INC.,aFlorida corporation(\"Tenant\")；"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    318.0,
+                    547.0,
+                    1440.0,
+                    547.0,
+                    1440.0,
+                    589.0,
+                    318.0,
+                    589.0
+                ],
+                "score": 0.961,
+                "text": "WHEREAS,Landlordand Tenant entered intoaLease onMarch23,1989(\"Lease\")"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    216.0,
+                    584.0,
+                    681.0,
+                    584.0,
+                    681.0,
+                    629.0,
+                    216.0,
+                    629.0
+                ],
+                "score": 0.971,
+                "text": "for premises situated at 4801 West"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    737.0,
+                    584.0,
+                    1445.0,
+                    584.0,
+                    1445.0,
+                    629.0,
+                    737.0,
+                    629.0
+                ],
+                "score": 0.963,
+                "text": ",Burbank,Illinois(“Premises\")and more particularly"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    222.0,
+                    627.0,
+                    585.0,
+                    627.0,
+                    585.0,
+                    664.0,
+                    222.0,
+                    664.0
+                ],
+                "score": 0.97,
+                "text": "described in theLease;and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    412.0,
+                    1297.0,
+                    1420.0,
+                    1297.0,
+                    1420.0,
+                    1337.0,
+                    412.0,
+                    1337.0
+                ],
+                "score": 0.964,
+                "text": "SuchAnnual and Monthly Rent shallbe inaddition to anyandall other rent"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    411.0,
+                    1334.0,
+                    1458.0,
+                    1334.0,
+                    1458.0,
+                    1376.0,
+                    411.0,
+                    1376.0
+                ],
+                "score": 0.976,
+                "text": "(including,without limitation,PercentageRent) and charges,if applicable,due"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    412.0,
+                    1372.0,
+                    631.0,
+                    1372.0,
+                    631.0,
+                    1413.0,
+                    412.0,
+                    1413.0
+                ],
+                "score": 0.974,
+                "text": "under the lease."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    311.0,
+                    1818.0,
+                    352.0,
+                    1818.0,
+                    352.0,
+                    1864.0,
+                    311.0,
+                    1864.0
+                ],
+                "score": 0.988,
+                "text": "3."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1818.0,
+                    1391.0,
+                    1818.0,
+                    1391.0,
+                    1861.0,
+                    414.0,
+                    1861.0
+                ],
+                "score": 0.959,
+                "text": "Section 4.1A(ii) is hereby deleted in its entiretyand the following shall be"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1855.0,
+                    725.0,
+                    1855.0,
+                    725.0,
+                    1895.0,
+                    414.0,
+                    1895.0
+                ],
+                "score": 0.967,
+                "text": "inserted in lieu thereof:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    315.0,
+                    809.0,
+                    1451.0,
+                    809.0,
+                    1451.0,
+                    852.0,
+                    315.0,
+                    852.0
+                ],
+                "score": 0.973,
+                "text": "NOWTHEREFORE,in consideration of the foregoingand the parties intending to be"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    217.0,
+                    849.0,
+                    1132.0,
+                    849.0,
+                    1132.0,
+                    889.0,
+                    217.0,
+                    889.0
+                ],
+                "score": 0.959,
+                "text": "legally bound thereby,Landlordand Tenant herebyagreeas follows:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    320.0,
+                    698.0,
+                    1454.0,
+                    698.0,
+                    1454.0,
+                    741.0,
+                    320.0,
+                    741.0
+                ],
+                "score": 0.969,
+                "text": "WHEREAS,Landlord and Tenantare desirous of extending the term of theLease and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    219.0,
+                    741.0,
+                    706.0,
+                    741.0,
+                    706.0,
+                    777.0,
+                    219.0,
+                    777.0
+                ],
+                "score": 0.976,
+                "text": "amending certain provisions therein."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    314.0,
+                    1446.0,
+                    351.0,
+                    1446.0,
+                    351.0,
+                    1488.0,
+                    314.0,
+                    1488.0
+                ],
+                "score": 0.995,
+                "text": "2."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    1446.0,
+                    1450.0,
+                    1446.0,
+                    1450.0,
+                    1487.0,
+                    415.0,
+                    1487.0
+                ],
+                "score": 0.955,
+                "text": "The options to renew set forth in Section 4.1B shall remain in effect;however,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    1484.0,
+                    1448.0,
+                    1484.0,
+                    1448.0,
+                    1524.0,
+                    413.0,
+                    1524.0
+                ],
+                "score": 0.967,
+                "text": "inparagraph2 thereof, the phase“includingthe rent due and payable pursuant"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    1521.0,
+                    1448.0,
+                    1521.0,
+                    1448.0,
+                    1561.0,
+                    413.0,
+                    1561.0
+                ],
+                "score": 0.958,
+                "text": "toArticle 4.1A herein”is herebydeleted and the following shallbe inserted in"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    411.0,
+                    1556.0,
+                    1344.0,
+                    1556.0,
+                    1344.0,
+                    1600.0,
+                    411.0,
+                    1600.0
+                ],
+                "score": 0.987,
+                "text": "lieu thereof:“except rent which shall be due and payable as follows:”"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    317.0,
+                    926.0,
+                    353.0,
+                    926.0,
+                    353.0,
+                    964.0,
+                    317.0,
+                    964.0
+                ],
+                "score": 0.992,
+                "text": "1."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    416.0,
+                    923.0,
+                    1305.0,
+                    923.0,
+                    1305.0,
+                    964.0,
+                    416.0,
+                    964.0
+                ],
+                "score": 0.945,
+                "text": "TheLease Termis hereby extended for an additional ten (10) years"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    963.0,
+                    1431.0,
+                    963.0,
+                    1431.0,
+                    999.0,
+                    415.0,
+                    999.0
+                ],
+                "score": 0.964,
+                "text": "commencingFebruary1,2006and expiringonJanuary31,2016(‘Extended"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    998.0,
+                    1455.0,
+                    998.0,
+                    1455.0,
+                    1039.0,
+                    413.0,
+                    1039.0
+                ],
+                "score": 0.948,
+                "text": "Term\").Annual Rent and Monthly Rent during the Extended Term shall be as"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1030.0,
+                    534.0,
+                    1030.0,
+                    534.0,
+                    1079.0,
+                    414.0,
+                    1079.0
+                ],
+                "score": 0.999,
+                "text": "follows:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    699.0,
+                    473.0,
+                    987.0,
+                    473.0,
+                    987.0,
+                    513.0,
+                    699.0,
+                    513.0
+                ],
+                "score": 0.998,
+                "text": "WITNESSETH"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1653,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    317,
+                    735,
+                    1460,
+                    735,
+                    1460,
+                    1000,
+                    317,
+                    1000
+                ],
+                "score": 0.943
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    323,
+                    1030,
+                    1462,
+                    1030,
+                    1462,
+                    1555,
+                    323,
+                    1555
+                ],
+                "score": 0.935
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    316,
+                    1776,
+                    1429,
+                    1776,
+                    1429,
+                    1853,
+                    316,
+                    1853
+                ],
+                "score": 0.922
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    318,
+                    1587,
+                    1453,
+                    1587,
+                    1453,
+                    1743,
+                    318,
+                    1743
+                ],
+                "score": 0.918
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    219,
+                    2009,
+                    342,
+                    2009,
+                    342,
+                    2031,
+                    219,
+                    2031
+                ],
+                "score": 0.867
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    312,
+                    356,
+                    1215,
+                    356,
+                    1215,
+                    705,
+                    312,
+                    705
+                ],
+                "score": 0.862,
+                "html": "<table><tr><td>Period</td><td>Breakpoint</td></tr><tr><td>2/1/06-1/31/11</td><td>$4,600,000.00</td></tr><tr><td>2/1/11-1/31/16</td><td>$5,020,000.00</td></tr><tr><td></td><td></td></tr><tr><td>Option 1 2/1/16-1/31/21</td><td>$5,482,000.00</td></tr><tr><td>Option 2</td><td></td></tr><tr><td>2/1/21-1/31/26</td><td>$5,990,200.00</td></tr></table>"
+            },
+            {
+                "category_id": 6,
+                "poly": [
+                    413,
+                    208,
+                    1430,
+                    208,
+                    1430,
+                    327,
+                    413,
+                    327
+                ],
+                "score": 0.768
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    317,
+                    553,
+                    544,
+                    553,
+                    544,
+                    701,
+                    317,
+                    701
+                ],
+                "score": 0.366
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    413,
+                    208,
+                    1430,
+                    208,
+                    1430,
+                    327,
+                    413,
+                    327
+                ],
+                "score": 0.195
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    546,
+                    33,
+                    590,
+                    33,
+                    590,
+                    52,
+                    546,
+                    52
+                ],
+                "score": 0.13
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    809,
+                    211,
+                    859,
+                    211,
+                    859,
+                    246,
+                    809,
+                    246
+                ],
+                "score": 0.88,
+                "latex": "2 \\%"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    221.0,
+                    2010.0,
+                    345.0,
+                    2010.0,
+                    345.0,
+                    2031.0,
+                    221.0,
+                    2031.0
+                ],
+                "score": 0.997,
+                "text": "KSAAM612.0405"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    205.0,
+                    808.0,
+                    205.0,
+                    808.0,
+                    254.0,
+                    414.0,
+                    254.0
+                ],
+                "score": 0.951,
+                "text": "“(ii)The amount by which"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    860.0,
+                    205.0,
+                    1433.0,
+                    205.0,
+                    1433.0,
+                    254.0,
+                    860.0,
+                    254.0
+                ],
+                "score": 0.988,
+                "text": "of Gross Sales (hereinafter defined) during"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    247.0,
+                    1385.0,
+                    247.0,
+                    1385.0,
+                    289.0,
+                    414.0,
+                    289.0
+                ],
+                "score": 0.973,
+                "text": "eachLease Year or PartialLease Year exceeds the following breakpoints"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    286.0,
+                    700.0,
+                    286.0,
+                    700.0,
+                    333.0,
+                    415.0,
+                    333.0
+                ],
+                "score": 0.958,
+                "text": "(\"Percentage Rent\"):"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    549.0,
+                    34.0,
+                    589.0,
+                    34.0,
+                    589.0,
+                    54.0,
+                    549.0,
+                    54.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    316.0,
+                    738.0,
+                    354.0,
+                    738.0,
+                    354.0,
+                    775.0,
+                    316.0,
+                    775.0
+                ],
+                "score": 0.966,
+                "text": "4."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    737.0,
+                    1387.0,
+                    737.0,
+                    1387.0,
+                    772.0,
+                    415.0,
+                    772.0
+                ],
+                "score": 0.981,
+                "text": "The Tenantacknowledges that,asoftheEffectiveDate,theLandlord has"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    776.0,
+                    1420.0,
+                    776.0,
+                    1420.0,
+                    810.0,
+                    413.0,
+                    810.0
+                ],
+                "score": 0.958,
+                "text": "performed its current obligationsunder theLease and is not in default under"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    814.0,
+                    1298.0,
+                    814.0,
+                    1298.0,
+                    848.0,
+                    415.0,
+                    848.0
+                ],
+                "score": 0.977,
+                "text": "anyterm orprovisionof theLease.Inaddition,theTenant further"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    849.0,
+                    1462.0,
+                    849.0,
+                    1462.0,
+                    889.0,
+                    415.0,
+                    889.0
+                ],
+                "score": 0.981,
+                "text": "acknowledges that no circumstances currently exist underwhich Landlord may"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    416.0,
+                    888.0,
+                    1331.0,
+                    888.0,
+                    1331.0,
+                    924.0,
+                    416.0,
+                    924.0
+                ],
+                "score": 0.979,
+                "text": "bedeemed indefault,and Tenant hasno knowndefenses,set-offs,or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    927.0,
+                    1382.0,
+                    927.0,
+                    1382.0,
+                    961.0,
+                    415.0,
+                    961.0
+                ],
+                "score": 0.961,
+                "text": "counterclaimsto thepaymentofrent or other amount due from Tenant to"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    961.0,
+                    1325.0,
+                    961.0,
+                    1325.0,
+                    1001.0,
+                    413.0,
+                    1001.0
+                ],
+                "score": 0.96,
+                "text": "Landlord under the Lease without the benefit of performing an audit."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    317.0,
+                    1033.0,
+                    356.0,
+                    1033.0,
+                    356.0,
+                    1072.0,
+                    317.0,
+                    1072.0
+                ],
+                "score": 0.982,
+                "text": "5."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1031.0,
+                    1445.0,
+                    1031.0,
+                    1445.0,
+                    1071.0,
+                    414.0,
+                    1071.0
+                ],
+                "score": 0.947,
+                "text": "Tenant represents and warrants to Landlord that Tenant has not dealt with any"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1069.0,
+                    1455.0,
+                    1069.0,
+                    1455.0,
+                    1106.0,
+                    414.0,
+                    1106.0
+                ],
+                "score": 0.965,
+                "text": "broker or brokers in connection with thisAmendment other thanMid-America"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    1109.0,
+                    1385.0,
+                    1109.0,
+                    1385.0,
+                    1144.0,
+                    415.0,
+                    1144.0
+                ],
+                "score": 0.974,
+                "text": "AssetManagement,Inc.and Tenantherebyagrees to indemnifyand hold"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    412.0,
+                    1145.0,
+                    1413.0,
+                    1145.0,
+                    1413.0,
+                    1183.0,
+                    412.0,
+                    1183.0
+                ],
+                "score": 0.974,
+                "text": "Landlord harmless fromandagainstanyandall losses,damages,liabilities,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    1183.0,
+                    1456.0,
+                    1183.0,
+                    1456.0,
+                    1220.0,
+                    415.0,
+                    1220.0
+                ],
+                "score": 0.96,
+                "text": "and expenses (including reasonable attorneys'fees)arising fromany claims of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    1221.0,
+                    1415.0,
+                    1221.0,
+                    1415.0,
+                    1259.0,
+                    415.0,
+                    1259.0
+                ],
+                "score": 0.961,
+                "text": "anyother broker or brokers or finders foranycommissionalleged to be due"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1260.0,
+                    1412.0,
+                    1260.0,
+                    1412.0,
+                    1292.0,
+                    414.0,
+                    1292.0
+                ],
+                "score": 0.95,
+                "text": "such other broker or brokers or finders in connectionwith this Amendment."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    412.0,
+                    1294.0,
+                    1373.0,
+                    1294.0,
+                    1373.0,
+                    1334.0,
+                    412.0,
+                    1334.0
+                ],
+                "score": 0.963,
+                "text": "Landlord represents and warrants to Tenant that it has not dealt with any"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    1334.0,
+                    1347.0,
+                    1334.0,
+                    1347.0,
+                    1368.0,
+                    415.0,
+                    1368.0
+                ],
+                "score": 0.988,
+                "text": "brokerorbrokers otherthanMid-AmericaAssetManagement,Inc.in"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    412.0,
+                    1369.0,
+                    1464.0,
+                    1369.0,
+                    1464.0,
+                    1404.0,
+                    412.0,
+                    1404.0
+                ],
+                "score": 0.967,
+                "text": "connection with this Amendment andLandlord herebyagrees to indemnifyand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1406.0,
+                    1450.0,
+                    1406.0,
+                    1450.0,
+                    1445.0,
+                    414.0,
+                    1445.0
+                ],
+                "score": 0.977,
+                "text": "holdTenant harmless fromand againstany.andall losses,damages,liabilities,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    412.0,
+                    1445.0,
+                    1456.0,
+                    1445.0,
+                    1456.0,
+                    1480.0,
+                    412.0,
+                    1480.0
+                ],
+                "score": 0.955,
+                "text": "and expenses(including reasonable attorneys'fees) arising fromany claimsof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1481.0,
+                    1407.0,
+                    1481.0,
+                    1407.0,
+                    1518.0,
+                    414.0,
+                    1518.0
+                ],
+                "score": 0.954,
+                "text": "anybroker or brokers or finders for anycommission alleged to be due such"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    416.0,
+                    1519.0,
+                    1344.0,
+                    1519.0,
+                    1344.0,
+                    1553.0,
+                    416.0,
+                    1553.0
+                ],
+                "score": 0.964,
+                "text": "otherbroker or brokers or findersin connectionwith thisAmendment."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    317.0,
+                    1776.0,
+                    353.0,
+                    1776.0,
+                    353.0,
+                    1820.0,
+                    317.0,
+                    1820.0
+                ],
+                "score": 0.983,
+                "text": "7."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    1774.0,
+                    1423.0,
+                    1774.0,
+                    1423.0,
+                    1816.0,
+                    413.0,
+                    1816.0
+                ],
+                "score": 0.97,
+                "text": "Full Force and Effect.Landlord and Tenant do hereby represent and warrant"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1815.0,
+                    1201.0,
+                    1815.0,
+                    1201.0,
+                    1852.0,
+                    414.0,
+                    1852.0
+                ],
+                "score": 0.969,
+                "text": "that theLeaseasamended hereby isin full forceand effect."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    317.0,
+                    1590.0,
+                    353.0,
+                    1590.0,
+                    353.0,
+                    1629.0,
+                    317.0,
+                    1629.0
+                ],
+                "score": 0.981,
+                "text": "6."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    1588.0,
+                    1432.0,
+                    1588.0,
+                    1432.0,
+                    1626.0,
+                    415.0,
+                    1626.0
+                ],
+                "score": 0.972,
+                "text": "Authorization.The undersigned individual(s) executing this Amendment on"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    1626.0,
+                    1455.0,
+                    1626.0,
+                    1455.0,
+                    1666.0,
+                    413.0,
+                    1666.0
+                ],
+                "score": 0.96,
+                "text": "behalf ofLandlord and Tenant do hereby representand warrant to each other"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    1665.0,
+                    1300.0,
+                    1665.0,
+                    1300.0,
+                    1705.0,
+                    413.0,
+                    1705.0
+                ],
+                "score": 0.964,
+                "text": "that they are each fully empowered and authorized to execute this"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    1705.0,
+                    595.0,
+                    1705.0,
+                    595.0,
+                    1747.0,
+                    415.0,
+                    1747.0
+                ],
+                "score": 1.0,
+                "text": "Amendment."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    315.0,
+                    549.0,
+                    445.0,
+                    549.0,
+                    445.0,
+                    594.0,
+                    315.0,
+                    594.0
+                ],
+                "score": 0.944,
+                "text": "Option 1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    315.0,
+                    587.0,
+                    543.0,
+                    587.0,
+                    543.0,
+                    627.0,
+                    315.0,
+                    627.0
+                ],
+                "score": 0.998,
+                "text": "2/1/16-1/31/21"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    313.0,
+                    625.0,
+                    448.0,
+                    625.0,
+                    448.0,
+                    667.0,
+                    313.0,
+                    667.0
+                ],
+                "score": 0.965,
+                "text": "Option 2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    314.0,
+                    661.0,
+                    547.0,
+                    661.0,
+                    547.0,
+                    699.0,
+                    314.0,
+                    699.0
+                ],
+                "score": 0.997,
+                "text": "2/1/21-1/31/26"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    205.0,
+                    808.0,
+                    205.0,
+                    808.0,
+                    254.0,
+                    414.0,
+                    254.0
+                ],
+                "score": 0.942,
+                "text": "“(ii）The amount by which"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    860.0,
+                    205.0,
+                    1433.0,
+                    205.0,
+                    1433.0,
+                    254.0,
+                    860.0,
+                    254.0
+                ],
+                "score": 0.988,
+                "text": "of Gross Sales (hereinafter defined) during"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    247.0,
+                    1385.0,
+                    247.0,
+                    1385.0,
+                    289.0,
+                    414.0,
+                    289.0
+                ],
+                "score": 0.973,
+                "text": "eachLease Year or PartialLease Year exceeds the following breakpoints"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    415.0,
+                    286.0,
+                    700.0,
+                    286.0,
+                    700.0,
+                    333.0,
+                    415.0,
+                    333.0
+                ],
+                "score": 0.947,
+                "text": "(\"Percentage Rent\"):"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1653,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    216,
+                    466,
+                    1436,
+                    466,
+                    1436,
+                    546,
+                    216,
+                    546
+                ],
+                "score": 0.943
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    316,
+                    1187,
+                    964,
+                    1187,
+                    964,
+                    1444,
+                    316,
+                    1444
+                ],
+                "score": 0.877
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    318,
+                    1143,
+                    488,
+                    1143,
+                    488,
+                    1182,
+                    318,
+                    1182
+                ],
+                "score": 0.871
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    220,
+                    2012,
+                    344,
+                    2012,
+                    344,
+                    2033,
+                    220,
+                    2033
+                ],
+                "score": 0.84
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    311,
+                    172,
+                    1429,
+                    172,
+                    1429,
+                    401,
+                    311,
+                    401
+                ],
+                "score": 0.736
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    320,
+                    1070,
+                    454,
+                    1070,
+                    454,
+                    1106,
+                    320,
+                    1106
+                ],
+                "score": 0.533
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    313,
+                    616,
+                    952,
+                    616,
+                    952,
+                    958,
+                    313,
+                    958
+                ],
+                "score": 0.38
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    320,
+                    1070,
+                    454,
+                    1070,
+                    454,
+                    1106,
+                    320,
+                    1106
+                ],
+                "score": 0.246
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    217,
+                    1894,
+                    232,
+                    1894,
+                    232,
+                    1911,
+                    217,
+                    1911
+                ],
+                "score": 0.16
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1547,
+                    1815,
+                    1562,
+                    1815,
+                    1562,
+                    1830,
+                    1547,
+                    1830
+                ],
+                "score": 0.115
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    451.0,
+                    1180.0,
+                    775.0,
+                    1180.0,
+                    775.0,
+                    1279.0,
+                    451.0,
+                    1279.0
+                ],
+                "score": 0.658,
+                "text": "SmS"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    315.0,
+                    1253.0,
+                    381.0,
+                    1253.0,
+                    381.0,
+                    1302.0,
+                    315.0,
+                    1302.0
+                ],
+                "score": 0.942,
+                "text": "By:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    1249.0,
+                    566.0,
+                    1249.0,
+                    566.0,
+                    1298.0,
+                    413.0,
+                    1298.0
+                ],
+                "score": 0.975,
+                "text": "Suk Singh"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    899.0,
+                    1232.0,
+                    970.0,
+                    1232.0,
+                    970.0,
+                    1318.0,
+                    899.0,
+                    1318.0
+                ],
+                "score": 0.083,
+                "text": "安"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    1290.0,
+                    665.0,
+                    1290.0,
+                    665.0,
+                    1336.0,
+                    414.0,
+                    1336.0
+                ],
+                "score": 0.991,
+                "text": "Sr.Vice President"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    433.0,
+                    1353.0,
+                    703.0,
+                    1353.0,
+                    703.0,
+                    1418.0,
+                    433.0,
+                    1418.0
+                ],
+                "score": 0.854,
+                "text": "Ma2,200s"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    315.0,
+                    1400.0,
+                    396.0,
+                    1400.0,
+                    396.0,
+                    1450.0,
+                    315.0,
+                    1450.0
+                ],
+                "score": 0.998,
+                "text": "Date"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    222.0,
+                    2011.0,
+                    347.0,
+                    2011.0,
+                    347.0,
+                    2033.0,
+                    222.0,
+                    2033.0
+                ],
+                "score": 0.996,
+                "text": "KSAAM612.0405"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    316.0,
+                    1070.0,
+                    459.0,
+                    1070.0,
+                    459.0,
+                    1112.0,
+                    316.0,
+                    1112.0
+                ],
+                "score": 1.0,
+                "text": "TENANT"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    313.0,
+                    614.0,
+                    510.0,
+                    614.0,
+                    510.0,
+                    663.0,
+                    313.0,
+                    663.0
+                ],
+                "score": 0.999,
+                "text": "LANDLORD"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    315.0,
+                    689.0,
+                    941.0,
+                    689.0,
+                    941.0,
+                    732.0,
+                    315.0,
+                    732.0
+                ],
+                "score": 0.998,
+                "text": "TRANSPORTATIONPLAZAASSOCIATES"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    315.0,
+                    797.0,
+                    384.0,
+                    797.0,
+                    384.0,
+                    859.0,
+                    315.0,
+                    859.0
+                ],
+                "score": 0.852,
+                "text": "By:"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    439.0,
+                    865.0,
+                    647.0,
+                    865.0,
+                    647.0,
+                    929.0,
+                    439.0,
+                    929.0
+                ],
+                "score": 0.438,
+                "text": "1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    312.0,
+                    911.0,
+                    396.0,
+                    911.0,
+                    396.0,
+                    964.0,
+                    312.0,
+                    964.0
+                ],
+                "score": 0.988,
+                "text": "Date"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    377.0,
+                    860.5,
+                    417.0,
+                    860.5,
+                    417.0,
+                    868.5,
+                    377.0,
+                    868.5
+                ],
+                "score": 0.451,
+                "text": "6"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    316.0,
+                    467.0,
+                    1435.0,
+                    467.0,
+                    1435.0,
+                    506.0,
+                    316.0,
+                    506.0
+                ],
+                "score": 0.98,
+                "text": "INWITNESSWHEREOF,theparties have executed thisFirstAmendment toLease"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    218.0,
+                    509.0,
+                    720.0,
+                    509.0,
+                    720.0,
+                    547.0,
+                    218.0,
+                    547.0
+                ],
+                "score": 0.975,
+                "text": "effective as of the datewrittenabove."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    314.0,
+                    1142.0,
+                    494.0,
+                    1142.0,
+                    494.0,
+                    1193.0,
+                    314.0,
+                    1193.0
+                ],
+                "score": 0.968,
+                "text": "GMRI, INC."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    317.0,
+                    175.0,
+                    352.0,
+                    175.0,
+                    352.0,
+                    216.0,
+                    317.0,
+                    216.0
+                ],
+                "score": 0.994,
+                "text": "8."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    175.0,
+                    1422.0,
+                    175.0,
+                    1422.0,
+                    213.0,
+                    414.0,
+                    213.0
+                ],
+                "score": 0.976,
+                "text": "Conflict.To the extent the termsand provisions of thisAmendment conflict"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    213.0,
+                    1367.0,
+                    213.0,
+                    1367.0,
+                    252.0,
+                    414.0,
+                    252.0
+                ],
+                "score": 0.965,
+                "text": "with the terms and provisions of the Lease and/or previous amendments"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    416.0,
+                    252.0,
+                    1291.0,
+                    252.0,
+                    1291.0,
+                    292.0,
+                    416.0,
+                    292.0
+                ],
+                "score": 0.97,
+                "text": "thereto,the terms and provisions of this Amendment shall control."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    316.0,
+                    325.0,
+                    354.0,
+                    325.0,
+                    354.0,
+                    365.0,
+                    316.0,
+                    365.0
+                ],
+                "score": 0.992,
+                "text": "9."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    321.0,
+                    1423.0,
+                    321.0,
+                    1423.0,
+                    364.0,
+                    414.0,
+                    364.0
+                ],
+                "score": 0.976,
+                "text": "This Amendment may be executed in one or more counterparts,all of which"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    414.0,
+                    361.0,
+                    950.0,
+                    361.0,
+                    950.0,
+                    401.0,
+                    414.0,
+                    401.0
+                ],
+                "score": 0.981,
+                "text": "together shall constitute one instrument."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    316.0,
+                    1070.0,
+                    459.0,
+                    1070.0,
+                    459.0,
+                    1112.0,
+                    316.0,
+                    1112.0
+                ],
+                "score": 1.0,
+                "text": "TENANT"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1653,
+            "height": 2339
+        }
+    }
+]

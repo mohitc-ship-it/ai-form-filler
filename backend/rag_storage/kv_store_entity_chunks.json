@@ -1,0 +1,1195 @@
+{
+  "East Line": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "East Line"
+  },
+  "South Cicero Avenue": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d",
+      "chunk-e0c11b6fb7008a6569949048d2628603",
+      "chunk-abf40d6ca90a585370443e0959dc1f9a",
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 4,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "South Cicero Avenue"
+  },
+  "Cook County": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d",
+      "chunk-e0c11b6fb7008a6569949048d2628603",
+      "chunk-d150e682256bf389e60313f91f8d69f7",
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 4,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "Cook County"
+  },
+  "Southeast 1/4": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d",
+      "chunk-e0c11b6fb7008a6569949048d2628603"
+    ],
+    "count": 2,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "Southeast 1/4"
+  },
+  "Northeast 1/4": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d",
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 2,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "Northeast 1/4"
+  },
+  "North Line": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "North Line"
+  },
+  "State Road": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d",
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 2,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "State Road"
+  },
+  "Northwest 1/4": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "Northwest 1/4"
+  },
+  "North Line of the South 6D Acres": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "North Line of the South 6D Acres"
+  },
+  "South 6D Acres": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "South 6D Acres"
+  },
+  "Intersection Point": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244295,
+    "update_time": 1762244295,
+    "_id": "Intersection Point"
+  },
+  "Tenant": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8",
+      "chunk-bfb50c60d01533a541badfb62b9b53a4",
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52",
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4",
+      "chunk-0a893765dde0d1d6dd906350e873da44",
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9",
+      "chunk-694048df8fb988021429a00348b0982b",
+      "chunk-91ff0f6411a0928223ea958406236b4b",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac",
+      "chunk-815a405650e49d4250dcd31c57256bd1",
+      "chunk-bbef3fe8374bda117297d9278588c02b",
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f",
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 18,
+    "create_time": 1762244296,
+    "update_time": 1762244296,
+    "_id": "Tenant"
+  },
+  "Landlord": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8",
+      "chunk-bfb50c60d01533a541badfb62b9b53a4",
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52",
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4",
+      "chunk-0a893765dde0d1d6dd906350e873da44",
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9",
+      "chunk-694048df8fb988021429a00348b0982b",
+      "chunk-91ff0f6411a0928223ea958406236b4b",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac",
+      "chunk-815a405650e49d4250dcd31c57256bd1",
+      "chunk-bbef3fe8374bda117297d9278588c02b",
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f",
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 18,
+    "create_time": 1762244296,
+    "update_time": 1762244296,
+    "_id": "Landlord"
+  },
+  "Premises": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8",
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52",
+      "chunk-0a893765dde0d1d6dd906350e873da44",
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9",
+      "chunk-694048df8fb988021429a00348b0982b",
+      "chunk-91ff0f6411a0928223ea958406236b4b",
+      "chunk-815a405650e49d4250dcd31c57256bd1",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 12,
+    "create_time": 1762244296,
+    "update_time": 1762244296,
+    "_id": "Premises"
+  },
+  "County or Municipal Assessor": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244296,
+    "update_time": 1762244296,
+    "_id": "County or Municipal Assessor"
+  },
+  "Larger Tax Parcel": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244296,
+    "update_time": 1762244296,
+    "_id": "Larger Tax Parcel"
+  },
+  "Lease Term": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8",
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac",
+      "chunk-815a405650e49d4250dcd31c57256bd1",
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 6,
+    "create_time": 1762244296,
+    "update_time": 1762244296,
+    "_id": "Lease Term"
+  },
+  "Real Property Taxes": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244296,
+    "update_time": 1762244296,
+    "_id": "Real Property Taxes"
+  },
+  "Net, Net Lease": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244296,
+    "update_time": 1762244296,
+    "_id": "Net, Net Lease"
+  },
+  "Minimum Annual Rent": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9"
+    ],
+    "count": 3,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Minimum Annual Rent"
+  },
+  "Additional Rent": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Additional Rent"
+  },
+  "Lease Year": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Lease Year"
+  },
+  "Demised Premises": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Demised Premises"
+  },
+  "Chi-Chi's of Illinois, Inc.": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4",
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a",
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 3,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Chi-Chi's of Illinois, Inc."
+  },
+  "Exhibit E": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Exhibit E"
+  },
+  "Non-Disturbance Agreement": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Non-Disturbance Agreement"
+  },
+  "Title Insurance Policy": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Title Insurance Policy"
+  },
+  "Tenant's Plans": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4",
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 2,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Tenant's Plans"
+  },
+  "Zoning, Variance, Special Use Permits": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4",
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 2,
+    "create_time": 1762244297,
+    "update_time": 1762244297,
+    "_id": "Zoning, Variance, Special Use Permits"
+  },
+  "Closing on the Sale": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244298,
+    "update_time": 1762244298,
+    "_id": "Closing on the Sale"
+  },
+  "Illinois": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603",
+      "chunk-d150e682256bf389e60313f91f8d69f7",
+      "chunk-0a893765dde0d1d6dd906350e873da44",
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 5,
+    "create_time": 1762244298,
+    "update_time": 1762244298,
+    "_id": "Illinois"
+  },
+  "Section 28": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603",
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 2,
+    "create_time": 1762244298,
+    "update_time": 1762244298,
+    "_id": "Section 28"
+  },
+  "Township 38 North": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603",
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 2,
+    "create_time": 1762244298,
+    "update_time": 1762244298,
+    "_id": "Township 38 North"
+  },
+  "Range 13 East": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603"
+    ],
+    "count": 1,
+    "create_time": 1762244298,
+    "update_time": 1762244298,
+    "_id": "Range 13 East"
+  },
+  "Third Principal Meridian": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603",
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 2,
+    "create_time": 1762244298,
+    "update_time": 1762244298,
+    "_id": "Third Principal Meridian"
+  },
+  "Southeast 1/4 of Section 2B": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603"
+    ],
+    "count": 1,
+    "create_time": 1762244298,
+    "update_time": 1762244298,
+    "_id": "Southeast 1/4 of Section 2B"
+  },
+  "Legal Description": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603"
+    ],
+    "count": 1,
+    "create_time": 1762244298,
+    "update_time": 1762244298,
+    "_id": "Legal Description"
+  },
+  "Section 2B": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603"
+    ],
+    "count": 1,
+    "create_time": 1762244299,
+    "update_time": 1762244299,
+    "_id": "Section 2B"
+  },
+  "State of Illinois": {
+    "chunk_ids": [
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-815a405650e49d4250dcd31c57256bd1"
+    ],
+    "count": 2,
+    "create_time": 1762244299,
+    "update_time": 1762244299,
+    "_id": "State of Illinois"
+  },
+  "Gross Sales": {
+    "chunk_ids": [
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de"
+    ],
+    "count": 1,
+    "create_time": 1762244299,
+    "update_time": 1762244299,
+    "_id": "Gross Sales"
+  },
+  "Minimum Monthly Rent": {
+    "chunk_ids": [
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-694048df8fb988021429a00348b0982b",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac"
+    ],
+    "count": 3,
+    "create_time": 1762244299,
+    "update_time": 1762244299,
+    "_id": "Minimum Monthly Rent"
+  },
+  "Percentage Rent": {
+    "chunk_ids": [
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac"
+    ],
+    "count": 3,
+    "create_time": 1762244299,
+    "update_time": 1762244299,
+    "_id": "Percentage Rent"
+  },
+  "Commencement Date": {
+    "chunk_ids": [
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-5379cbc1c98443e303236d038418300f"
+    ],
+    "count": 3,
+    "create_time": 1762244299,
+    "update_time": 1762244299,
+    "_id": "Commencement Date"
+  },
+  "Lease": {
+    "chunk_ids": [
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-0a893765dde0d1d6dd906350e873da44",
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9",
+      "chunk-694048df8fb988021429a00348b0982b",
+      "chunk-91ff0f6411a0928223ea958406236b4b",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac",
+      "chunk-815a405650e49d4250dcd31c57256bd1",
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b",
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 12,
+    "update_time": 1762263743,
+    "_id": "Lease"
+  },
+  "THE OLIVE GARDEN": {
+    "chunk_ids": [
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb"
+    ],
+    "count": 1,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "THE OLIVE GARDEN"
+  },
+  "Lease Agreement": {
+    "chunk_ids": [
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f",
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 3,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "Lease Agreement"
+  },
+  "SIC Code 302": {
+    "chunk_ids": [
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb"
+    ],
+    "count": 1,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "SIC Code 302"
+  },
+  "Eastline": {
+    "chunk_ids": [
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 1,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "Eastline"
+  },
+  "Southeast I/4": {
+    "chunk_ids": [
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 1,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "Southeast I/4"
+  },
+  "Commonwealth Edison Company": {
+    "chunk_ids": [
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 1,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "Commonwealth Edison Company"
+  },
+  "Northwest I/4": {
+    "chunk_ids": [
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 1,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "Northwest I/4"
+  },
+  "Meridian": {
+    "chunk_ids": [
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 1,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "Meridian"
+  },
+  "Range 13": {
+    "chunk_ids": [
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 1,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "Range 13"
+  },
+  "Principal Meridian": {
+    "chunk_ids": [
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 1,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "Principal Meridian"
+  },
+  "Mortgagee": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 2,
+    "create_time": 1762244300,
+    "update_time": 1762244300,
+    "_id": "Mortgagee"
+  },
+  "Insurance Policies": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Insurance Policies"
+  },
+  "Common Areas": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 3,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Common Areas"
+  },
+  "Pylon Sign": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Pylon Sign"
+  },
+  "Building Facia Sign": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Building Facia Sign"
+  },
+  "Uniform Commercial Code": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Uniform Commercial Code"
+  },
+  "Burbank Town Center Subdivision": {
+    "chunk_ids": [
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Burbank Town Center Subdivision"
+  },
+  "Lot 3": {
+    "chunk_ids": [
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Lot 3"
+  },
+  "Northeast 1/4 of the Southeast 1/4": {
+    "chunk_ids": [
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Northeast 1/4 of the Southeast 1/4"
+  },
+  "Required Completion Date": {
+    "chunk_ids": [
+      "chunk-5379cbc1c98443e303236d038418300f"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Required Completion Date"
+  },
+  "Comprehensive General Liability Policy": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Comprehensive General Liability Policy"
+  },
+  "Builder's Risk Insurance": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Builder's Risk Insurance"
+  },
+  "Workman's Compensation and Occupational Disease Insurance": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244301,
+    "update_time": 1762244301,
+    "_id": "Workman's Compensation and Occupational Disease Insurance"
+  },
+  "Mutual Waiver of Subrogation Rights": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Mutual Waiver of Subrogation Rights"
+  },
+  "Insurance Coverages": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Insurance Coverages"
+  },
+  "Center": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52",
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac",
+      "chunk-bbef3fe8374bda117297d9278588c02b",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 5,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Center"
+  },
+  "Common Area": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Common Area"
+  },
+  "The Center": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "The Center"
+  },
+  "Steel Plates": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Steel Plates"
+  },
+  "Tractor Trailers": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Tractor Trailers"
+  },
+  "Dramshop Insurance": {
+    "chunk_ids": [
+      "chunk-0a893765dde0d1d6dd906350e873da44"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Dramshop Insurance"
+  },
+  "Underwriters Laboratories": {
+    "chunk_ids": [
+      "chunk-0a893765dde0d1d6dd906350e873da44"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Underwriters Laboratories"
+  },
+  "Factory Mutual Insurance Company": {
+    "chunk_ids": [
+      "chunk-0a893765dde0d1d6dd906350e873da44"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Factory Mutual Insurance Company"
+  },
+  "Chemical Extinguishing Devices": {
+    "chunk_ids": [
+      "chunk-0a893765dde0d1d6dd906350e873da44"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Chemical Extinguishing Devices"
+  },
+  "Operating Agreements": {
+    "chunk_ids": [
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Operating Agreements"
+  },
+  "County": {
+    "chunk_ids": [
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "County"
+  },
+  "Easements": {
+    "chunk_ids": [
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9"
+    ],
+    "count": 1,
+    "create_time": 1762244302,
+    "update_time": 1762244302,
+    "_id": "Easements"
+  },
+  "Eminent Domain": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Eminent Domain"
+  },
+  "Casualty": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Casualty"
+  },
+  "Improvements": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Improvements"
+  },
+  "Stock in Trade": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Stock in Trade"
+  },
+  "Fixtures": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Fixtures"
+  },
+  "Furnishings": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Furnishings"
+  },
+  "Floor Covering": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Floor Covering"
+  },
+  "Wall Covering": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Wall Covering"
+  },
+  "Drapes": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Drapes"
+  },
+  "First Mortgagee": {
+    "chunk_ids": [
+      "chunk-91ff0f6411a0928223ea958406236b4b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "First Mortgagee"
+  },
+  "Legal Proceedings": {
+    "chunk_ids": [
+      "chunk-91ff0f6411a0928223ea958406236b4b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Legal Proceedings"
+  },
+  "Italian Food": {
+    "chunk_ids": [
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Italian Food"
+  },
+  "Williams-Steiger Occupational Safety and Health Act": {
+    "chunk_ids": [
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Williams-Steiger Occupational Safety and Health Act"
+  },
+  "Lien": {
+    "chunk_ids": [
+      "chunk-815a405650e49d4250dcd31c57256bd1"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Lien"
+  },
+  "Department Stores": {
+    "chunk_ids": [
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 1,
+    "create_time": 1762244303,
+    "update_time": 1762244303,
+    "_id": "Department Stores"
+  },
+  "Common Area Costs": {
+    "chunk_ids": [
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Common Area Costs"
+  },
+  "Utilities": {
+    "chunk_ids": [
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Utilities"
+  },
+  "Exhibit F": {
+    "chunk_ids": [
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Exhibit F"
+  },
+  "Landlord's Tract": {
+    "chunk_ids": [
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Landlord's Tract"
+  },
+  "Transportation Plaza Associates": {
+    "chunk_ids": [
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f",
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a",
+      "chunk-38ff58b0b997721c070d80a239ececa9",
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 4,
+    "update_time": 1762263743,
+    "_id": "Transportation Plaza Associates"
+  },
+  "Management Properties, Inc.": {
+    "chunk_ids": [
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Management Properties, Inc."
+  },
+  "General Mills Restaurants, Inc.": {
+    "chunk_ids": [
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f",
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a",
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 3,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "General Mills Restaurants, Inc."
+  },
+  "Indianapolis, Indiana": {
+    "chunk_ids": [
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Indianapolis, Indiana"
+  },
+  "Stamford, Connecticut": {
+    "chunk_ids": [
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Stamford, Connecticut"
+  },
+  "Transportation Plaza, Inc.": {
+    "chunk_ids": [
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Transportation Plaza, Inc."
+  },
+  "Richard D. Halterman": {
+    "chunk_ids": [
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Richard D. Halterman"
+  },
+  "Martin N. Goldsmith": {
+    "chunk_ids": [
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Martin N. Goldsmith"
+  },
+  "Florida": {
+    "chunk_ids": [
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 1,
+    "create_time": 1762244304,
+    "update_time": 1762244304,
+    "_id": "Florida"
+  },
+  "Mortgage": {
+    "chunk_ids": [
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 1,
+    "create_time": 1762244305,
+    "update_time": 1762244305,
+    "_id": "Mortgage"
+  },
+  "Mechanics' Lien": {
+    "chunk_ids": [
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 1,
+    "create_time": 1762244305,
+    "update_time": 1762244305,
+    "_id": "Mechanics' Lien"
+  },
+  "Burbank Town Center": {
+    "chunk_ids": [
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 1,
+    "create_time": 1762244305,
+    "update_time": 1762244305,
+    "_id": "Burbank Town Center"
+  },
+  "May 1, 1989": {
+    "chunk_ids": [
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 1,
+    "create_time": 1762244305,
+    "update_time": 1762244305,
+    "_id": "May 1, 1989"
+  },
+  "Deliveries": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244333,
+    "update_time": 1762244333,
+    "_id": "Deliveries"
+  },
+  "Waste Disposal": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244335,
+    "update_time": 1762244335,
+    "_id": "Waste Disposal"
+  },
+  "GMRI, Inc.": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263743,
+    "_id": "GMRI, Inc."
+  },
+  "Burbank, Illinois": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263743,
+    "_id": "Burbank, Illinois"
+  },
+  "Effective Date": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263743,
+    "_id": "Effective Date"
+  },
+  "Mid-America Asset Management, Inc.": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263743,
+    "_id": "Mid-America Asset Management, Inc."
+  },
+  "Lease Amendment": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263743,
+    "_id": "Lease Amendment"
+  },
+  "4801 West 77th Street": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263743,
+    "_id": "4801 West 77th Street"
+  },
+  "March 23, 1989": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263744,
+    "_id": "March 23, 1989"
+  }
+}

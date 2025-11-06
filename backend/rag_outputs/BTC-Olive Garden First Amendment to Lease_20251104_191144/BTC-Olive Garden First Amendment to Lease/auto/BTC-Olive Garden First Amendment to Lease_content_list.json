@@ -1,0 +1,347 @@
+[
+    {
+        "type": "text",
+        "text": "THISFIRSTAMENDMENTTOLEASE made this__dayof 2005,byandbetween TRANSPORTATIONPLAZAASSOCIATES,aConnecticutLimited Partnership(“Landlord\"),andGMRI,INC.,f/k/a GENERALMILLSRESTAURANTS, INC.,aFlorida corporation(\"Tenant\")； ",
+        "bbox": [
+            132,
+            119,
+            873,
+            187
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WITNESSETH ",
+        "text_level": 1,
+        "bbox": [
+            421,
+            200,
+            594,
+            219
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WHEREAS,Landlordand Tenant entered intoaLease onMarch23,1989(\"Lease\") for premises situated at 4801 West $7 7 ^ { \\mathrm { t h } }$ ,Burbank,Illinois(“Premises\")and more particularly described in theLease;and ",
+        "bbox": [
+            132,
+            233,
+            872,
+            283
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WHEREAS,Landlord and Tenantare desirous of extending the term of theLease and amending certain provisions therein. ",
+        "bbox": [
+            132,
+            298,
+            875,
+            331
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NOWTHEREFORE,in consideration of the foregoingand the parties intending to be legally bound thereby,Landlordand Tenant herebyagreeas follows: ",
+        "bbox": [
+            134,
+            345,
+            875,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. TheLease Termis hereby extended for an additional ten (10) years commencingFebruary1,2006and expiringonJanuary31,2016(‘Extended Term\").Annual Rent and Monthly Rent during the Extended Term shall be as follows: ",
+        "bbox": [
+            191,
+            393,
+            875,
+            458
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b5d0072359d079a7f6cc58c4656054b047f2318867dc84e9fcefd93325a85dd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Term</td><td>AnnualRent</td><td>Monthly Rent</td></tr><tr><td>2/1/06-1/31/11</td><td>$84,000.00</td><td>$7,000.00</td></tr><tr><td>2/1/11-1/31/16</td><td>$92,400.00</td><td>$7,700.00</td></tr></table>",
+        "bbox": [
+            189,
+            472,
+            662,
+            540
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SuchAnnual and Monthly Rent shallbe inaddition to anyandall other rent (including,without limitation,PercentageRent) and charges,if applicable,due under the lease. ",
+        "bbox": [
+            248,
+            554,
+            878,
+            602
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. The options to renew set forth in Section 4.1B shall remain in effect;however, inparagraph2 thereof, the phase“includingthe rent due and payable pursuant toArticle 4.1A herein”is herebydeleted and the following shallbe inserted in lieu thereof:“except rent which shall be due and payable as follows:” ",
+        "bbox": [
+            189,
+            617,
+            873,
+            682
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5063663a742c9267e287c14a52e86b3352362a6cd67aa656dd270bc28e97b8f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Term</td><td>AnnualRent</td><td>MonthlyRent</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Option 1(2/1/16-1/31/21)</td><td>$101,640.00</td><td>$8,470.00</td></tr><tr><td>Option2(2/1/21-1/31/26)</td><td>$111,804.00</td><td>$9,317.00</td></tr></table>",
+        "bbox": [
+            189,
+            697,
+            722,
+            763
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. Section 4.1A(ii) is hereby deleted in its entiretyand the following shall be inserted in lieu thereof: ",
+        "bbox": [
+            184,
+            777,
+            842,
+            809
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "KSAAM612.0405 ",
+        "bbox": [
+            129,
+            857,
+            206,
+            868
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "FIRSTAMENDMENTTOLEASE ",
+        "bbox": [
+            364,
+            71,
+            652,
+            89
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "tei9 ",
+        "bbox": [
+            670,
+            48,
+            902,
+            87
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/23398dc206b1851bda9826ae2f41c0966305cb5d6d14166a9035c37af5bcce73.jpg",
+        "table_caption": [
+            "“(ii)The amount by which $2 \\%$ of Gross Sales (hereinafter defined) during eachLease Year or PartialLease Year exceeds the following breakpoints (\"Percentage Rent\"): "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Period</td><td>Breakpoint</td></tr><tr><td>2/1/06-1/31/11</td><td>$4,600,000.00</td></tr><tr><td>2/1/11-1/31/16</td><td>$5,020,000.00</td></tr><tr><td></td><td></td></tr><tr><td>Option 1 2/1/16-1/31/21</td><td>$5,482,000.00</td></tr><tr><td>Option 2</td><td></td></tr><tr><td>2/1/21-1/31/26</td><td>$5,990,200.00</td></tr></table>",
+        "bbox": [
+            188,
+            152,
+            734,
+            300
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. The Tenantacknowledges that,asoftheEffectiveDate,theLandlord has performed its current obligationsunder theLease and is not in default under anyterm orprovisionof theLease.Inaddition,theTenant further acknowledges that no circumstances currently exist underwhich Landlord may bedeemed indefault,and Tenant hasno knowndefenses,set-offs,or counterclaimsto thepaymentofrent or other amount due from Tenant to Landlord under the Lease without the benefit of performing an audit. ",
+        "bbox": [
+            191,
+            313,
+            882,
+            427
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. Tenant represents and warrants to Landlord that Tenant has not dealt with any broker or brokers in connection with thisAmendment other thanMid-America AssetManagement,Inc.and Tenantherebyagrees to indemnifyand hold Landlord harmless fromandagainstanyandall losses,damages,liabilities, and expenses (including reasonable attorneys'fees)arising fromany claims of anyother broker or brokers or finders foranycommissionalleged to be due such other broker or brokers or finders in connectionwith this Amendment. Landlord represents and warrants to Tenant that it has not dealt with any brokerorbrokers otherthanMid-AmericaAssetManagement,Inc.in connection with this Amendment andLandlord herebyagrees to indemnifyand holdTenant harmless fromand againstany.andall losses,damages,liabilities, and expenses(including reasonable attorneys'fees) arising fromany claimsof anybroker or brokers or finders for anycommission alleged to be due such otherbroker or brokers or findersin connectionwith thisAmendment. ",
+        "bbox": [
+            194,
+            439,
+            884,
+            663
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6. Authorization.The undersigned individual(s) executing this Amendment on behalf ofLandlord and Tenant do hereby representand warrant to each other that they are each fully empowered and authorized to execute this Amendment. ",
+        "bbox": [
+            191,
+            678,
+            878,
+            744
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7. Full Force and Effect.Landlord and Tenant do hereby represent and warrant that theLeaseasamended hereby isin full forceand effect. ",
+        "bbox": [
+            189,
+            758,
+            863,
+            792
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "KSAAM612.0405 ",
+        "bbox": [
+            131,
+            858,
+            206,
+            868
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            329,
+            13,
+            356,
+            21
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8. Conflict.To the extent the termsand provisions of thisAmendment conflict with the terms and provisions of the Lease and/or previous amendments thereto,the terms and provisions of this Amendment shall control.   \n9. This Amendment may be executed in one or more counterparts,all of which together shall constitute one instrument. ",
+        "bbox": [
+            186,
+            72,
+            863,
+            171
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INWITNESSWHEREOF,theparties have executed thisFirstAmendment toLease effective as of the datewrittenabove. ",
+        "bbox": [
+            129,
+            198,
+            867,
+            232
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/404f47486c412f68bc326c7f28d659bf61e60c392ce97ce5a0688062703240b6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            188,
+            262,
+            574,
+            408
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TENANT ",
+        "text_level": 1,
+        "bbox": [
+            193,
+            457,
+            273,
+            472
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GMRI, INC. ",
+        "bbox": [
+            191,
+            488,
+            294,
+            504
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By: Suk Singh SmS Sr.Vice President Ma2,200s Date ",
+        "bbox": [
+            189,
+            507,
+            583,
+            616
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "KSAAM612.0405 ",
+        "bbox": [
+            132,
+            859,
+            206,
+            868
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            131,
+            808,
+            139,
+            815
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            934,
+            775,
+            944,
+            781
+        ],
+        "page_idx": 2
+    }
+]

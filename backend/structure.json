@@ -1,0 +1,228 @@
+{
+  "file_name": "Lease Abstract Template.docx",
+  "file_type": "docx",
+  "pages": [
+    {
+      "page_number": 1,
+      "fields": [
+        {
+          "field_text": "Tenant:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Documents:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Guarantor:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Square Feet:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Pro Rata Share:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Term:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Options:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Use:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Exclusive Use:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Percentage Rent:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Gross Sales:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Financials Statements:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "CAM:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Real Estate Taxes:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Liabilities:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Utilities:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Relocation:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Termination Right:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Recapture/Go Dark:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Co-Tenancy:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Radius:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Estoppel:",
+          "value": null,
+          "context": null,
+          "position": null
+        },
+        {
+          "field_text": "Security Deposit:",
+          "value": null,
+          "context": null,
+          "position": null
+        }
+      ],
+      "tables": [
+        {
+          "table_name": "Rent:",
+          "headers": [
+            "",
+            "Annual",
+            "Monthly",
+            "PSF",
+            "Step-Up Date"
+          ],
+          "rows": [
+            [
+              {
+                "row_index": 2,
+                "col_index": 0,
+                "cell_text": "",
+                "context": null
+              },
+              {
+                "row_index": 2,
+                "col_index": 1,
+                "cell_text": "",
+                "context": null
+              },
+              {
+                "row_index": 2,
+                "col_index": 2,
+                "cell_text": "",
+                "context": null
+              },
+              {
+                "row_index": 2,
+                "col_index": 3,
+                "cell_text": "",
+                "context": null
+              },
+              {
+                "row_index": 2,
+                "col_index": 4,
+                "cell_text": "",
+                "context": null
+              }
+            ],
+            [
+              {
+                "row_index": 3,
+                "col_index": 0,
+                "cell_text": "",
+                "context": null
+              },
+              {
+                "row_index": 3,
+                "col_index": 1,
+                "cell_text": "",
+                "context": null
+              },
+              {
+                "row_index": 3,
+                "col_index": 2,
+                "cell_text": "",
+                "context": null
+              },
+              {
+                "row_index": 3,
+                "col_index": 3,
+                "cell_text": "",
+                "context": null
+              },
+              {
+                "row_index": 3,
+                "col_index": 4,
+                "cell_text": "",
+                "context": null
+              }
+            ]
+          ],
+          "context": null
+        }
+      ]
+    }
+  ]
+}

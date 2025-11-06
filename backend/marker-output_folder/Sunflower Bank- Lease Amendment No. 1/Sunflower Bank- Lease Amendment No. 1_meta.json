@@ -1,0 +1,177 @@
+{
+  "table_of_contents": [
+    {
+      "title": "AMENDMENT TO LEASE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          919.640625,
+          555.57470703125
+        ],
+        [
+          1490.8603515625,
+          555.57470703125
+        ],
+        [
+          1490.8603515625,
+          605.07470703125
+        ],
+        [
+          919.640625,
+          605.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "WITNESSETH:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          618.50830078125,
+          1380.9814453125
+        ],
+        [
+          982.4227905273438,
+          1380.9814453125
+        ],
+        [
+          982.4227905273438,
+          1435.07470703125
+        ],
+        [
+          618.50830078125,
+          1435.07470703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Sunflower Bank- Lease Amendment No. 1"
+}

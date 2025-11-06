@@ -1,0 +1,14 @@
+pandas
+langchain
+langchain-openai
+langchain-core
+langchain-community
+unstructured
+langchain-chroma
+pi-heif
+unstructured
+unstructured-inference
+pdfminer.six
+pdf2image
+langchain-google-genai
+pillow-avif-plugin

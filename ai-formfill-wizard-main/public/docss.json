@@ -1,0 +1,132 @@
+{
+  "documentTitle": "Lease Abstract",
+  "fields": [
+    {
+      "name": "Tenant Name",
+      "value": "First National Bank and Trust Company",
+      "source": "Lease Abstract"
+    },
+    {
+      "name": "Documents",
+      "type": "list",
+      "items": [
+        "Original Lease Agreement dated July 31, 1972",
+        "First Amendment to Lease dated September 24, 1973",
+        "Second Amendment to Lease dated June 19, 1975",
+        "Third Amendment to Lease dated December 23, 1997",
+        "Fourth Amendment to Lease dated July 20, 2023",
+        "Exhibit A (describing the work to be completed by Lessee)",
+        "Insurance Certificates evidencing required insurance coverage",
+        "Any necessary permits or licenses for Lessee's operations on the premises"
+      ]
+    },
+    {
+      "name": "Guarantor",
+      "value": "No explicit guarantor mentioned. Parties: Lessor (RAF SALINA LLC), Lessee (SUNFLOWER BANK, N.A.)."
+    },
+    {
+      "name": "Square Feet",
+      "value": "22,500 sq ft"
+    },
+    {
+      "name": "Pro Rata Share",
+      "value": "Not explicitly stated; inferred from tenant’s prorated tax obligations."
+    },
+    {
+      "name": "Term",
+      "value": "50 years"
+    },
+    {
+      "name": "Rent Table",
+      "type": "table",
+      "headers": ["Annual", "Monthly", "PSF", "Step-Up Date"],
+      "rows": [
+        ["134,090.00", "11,174.17", "22.00", "August 1, 2023"],
+        ["146,280.00", "12,190.00", "24.00", "August 1, 2028"]
+      ]
+    },
+    {
+      "name": "Options",
+      "type": "list",
+      "items": [
+        "Right to Terminate on 20th and 40th anniversaries with two years' written notice.",
+        "Removal of Improvements: allowed with restoration and bond.",
+        "Assignment and Subletting: allowed with Lessor’s reasonable consent.",
+        "Indemnification: tenant may indemnify Lessor for claims.",
+        "Bona Fide Dispute: tenant not in default during valid disputes.",
+        "Insurance Requirements: maintain and provide certificates of insurance.",
+        "Notice Provisions: tenant has right to receive notices at designated address."
+      ]
+    },
+    {
+      "name": "Use",
+      "value": "Banking purposes – operation and maintenance of a bank or drive-in banking facility."
+    },
+    {
+      "name": "Exclusive Use",
+      "value": "Tenant has exclusive rights for certain businesses; landlord cannot lease to competing automotive or banking businesses."
+    },
+    {
+      "name": "Percentage Rent",
+      "value": "Not explicitly mentioned; may apply if retail sales exceed 62.5× annual rent for two consecutive years."
+    },
+    {
+      "name": "Gross Sales",
+      "value": "Not explicitly stated; relates to retail sales exceeding 62.5× annual rent threshold."
+    },
+    {
+      "name": "Financial Statements",
+      "value": "Not specified; tenant must maintain insurance and pay rent/taxes as per lease."
+    },
+    {
+      "name": "CAM",
+      "value": "No explicit mention of Common Area Maintenance charges."
+    },
+    {
+      "name": "Real Estate Taxes",
+      "value": "Tenant responsible for all general taxes, prorated by rent commencement and end dates."
+    },
+    {
+      "name": "Liabilities",
+      "type": "list",
+      "items": [
+        "Payment of rent, taxes, insurance, and other charges.",
+        "Maintenance and repair of premises.",
+        "Compliance with laws and ordinances.",
+        "Indemnification of Lessor for tenant’s activities.",
+        "Maintain required insurance and provide certificates.",
+        "Repair obligations for removed fixtures/improvements.",
+        "Assignment and Subletting with Lessor’s consent.",
+        "Holdover provisions – tenant at will with 150% rent if overstaying."
+      ]
+    },
+    {
+      "name": "Utilities",
+      "value": "Tenant responsible for all utility charges during lease term."
+    },
+    {
+      "name": "Relocation",
+      "value": "Tenant may remove buildings and improvements, provided restoration and Lessor consent for transfer to similar banking use."
+    },
+    {
+      "name": "Recapture / Go Dark",
+      "value": "Not explicitly stated; termination and competitive leasing clauses partially cover similar scenarios."
+    },
+    {
+      "name": "Co-Tenancy",
+      "value": "Landlord restricted from leasing to competing businesses; tenant may terminate if breach not cured."
+    },
+    {
+      "name": "Radius",
+      "value": "Tenant restricted from competing within Salina, KS south of Cloud Street; landlord restricted from leasing to interior decor retailers."
+    },
+    {
+      "name": "Estoppel",
+      "value": "Not explicitly mentioned; insurance certificates serve similar function."
+    },
+    {
+      "name": "Security Deposit",
+      "value": "Not specified in the lease."
+    }
+  ]
+}

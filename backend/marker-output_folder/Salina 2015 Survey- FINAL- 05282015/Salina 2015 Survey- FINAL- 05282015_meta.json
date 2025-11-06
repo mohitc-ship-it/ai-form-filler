@@ -1,0 +1,278 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SCHEDULE B-2 EASEMENT NOTES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.25,
+          75.09375
+        ],
+        [
+          456.890625,
+          75.09375
+        ],
+        [
+          456.890625,
+          95.25
+        ],
+        [
+          93.0,
+          97.5
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL SURVEY NOTES:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.25,
+          594.84375
+        ],
+        [
+          364.5,
+          594.84375
+        ],
+        [
+          364.5,
+          615.0
+        ],
+        [
+          92.25,
+          615.0
+        ]
+      ]
+    },
+    {
+      "title": "ZONING INFORMATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          594.0,
+          75.09375
+        ],
+        [
+          822.75,
+          75.09375
+        ],
+        [
+          822.75,
+          96.0
+        ],
+        [
+          594.0,
+          96.0
+        ]
+      ]
+    },
+    {
+      "title": "Building Size-",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          588.515625,
+          264.9375
+        ],
+        [
+          675.75,
+          264.9375
+        ],
+        [
+          675.75,
+          279.75
+        ],
+        [
+          588.515625,
+          279.75
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          593.578125,
+          322.3125
+        ],
+        [
+          646.734375,
+          322.3125
+        ],
+        [
+          646.734375,
+          335.8125
+        ],
+        [
+          593.578125,
+          335.8125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          656.859375,
+          61.59375
+        ],
+        [
+          1266.890625,
+          61.59375
+        ],
+        [
+          1266.890625,
+          100.40625
+        ],
+        [
+          656.859375,
+          100.40625
+        ]
+      ]
+    },
+    {
+      "title": "VICINITY MAP\nNot to Scale",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          2164.21875,
+          61.5
+        ],
+        [
+          2330.25,
+          61.5
+        ],
+        [
+          2330.25,
+          102.75
+        ],
+        [
+          2164.21875,
+          102.75
+        ]
+      ]
+    },
+    {
+      "title": "SURVEYOR'S CERTIFICATE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          2079.75,
+          574.5
+        ],
+        [
+          2352.0,
+          574.5
+        ],
+        [
+          2352.0,
+          596.53125
+        ],
+        [
+          2079.75,
+          596.53125
+        ]
+      ]
+    },
+    {
+      "title": "RECORD LEGAL DESCRIPTION\n(from commitment)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          2090.25,
+          975.0
+        ],
+        [
+          2394.75,
+          973.5
+        ],
+        [
+          2395.5,
+          1020.9375
+        ],
+        [
+          2090.25,
+          1020.9375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          223
+        ],
+        [
+          "Span",
+          164
+        ],
+        [
+          "Text",
+          48
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Picture",
+          9
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          116
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Salina 2015 Survey- FINAL- 05282015"
+}

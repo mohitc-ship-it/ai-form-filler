@@ -1,0 +1,160 @@
+[
+  {
+    "field": "Tenant Name",
+    "value": "Sunflower Bank, N.A. (successor to First National Bank and Trust Company of Salina)",
+    "explanation": "Confirmed from multiple lease amendments and short form lease.",
+    "source": "Sunflower Bank- Lease Amendment No. 4.pdf; Sunflower Bank- Short Form Lease.PDF"
+  },
+  {
+    "field": "Documents",
+    "value": "1. Original Lease Agreement dated July 31, 1972; 2. First Amendment to Lease dated September 24, 1973; 3. Second Amendment to Lease dated June 19, 1975; 4. Third Amendment to Lease dated December 23, 1997; 5. Fourth Amendment to Lease dated July 20, 2023; 6. Short Form Lease recorded October 1973.",
+    "explanation": "List of all known lease documents and amendments forming the complete lease record.",
+    "source": "All uploaded lease PDFs"
+  },
+  {
+    "field": "Guarantor",
+    "value": "Not available",
+    "explanation": "No guarantor mentioned in any lease or amendment.",
+    "source": "All uploaded lease PDFs"
+  },
+  {
+    "field": "Square Feet",
+    "value": "2,871.4 sq. ft.",
+    "explanation": "Building footprint verified in ALTA survey.",
+    "source": "Salina 2015 Survey- FINAL- 05282015.pdf"
+  },
+  {
+    "field": "Pro Rata Share",
+    "value": "Not available",
+    "explanation": "Lease does not define or allocate a pro rata share for expenses.",
+    "source": "Sunflower Bank- Lease.PDF"
+  },
+  {
+    "field": "Term",
+    "value": "August 1, 1973 – July 31, 2033 (50-year original term + 10-year extension)",
+    "explanation": "Original term 1973–2023; extended through 2033 per Fourth Amendment.",
+    "source": "Sunflower Bank- Short Form Lease.PDF; Sunflower Bank- Lease Amendment No. 4.pdf"
+  },
+  {
+    "type": "table",
+    "title": "Rent",
+    "data": {
+      "headers": ["Annual Rent", "Monthly Rent", "PSF", "Step-Up Date"],
+      "rows": [
+        ["$134,090.00", "$11,174.17", "$22.00", "August 1, 2023"],
+        ["$146,280.00", "$12,190.00", "$24.00", "August 1, 2028"]
+      ]
+    },
+    "explanation": "Two rent periods defined in the 2023 amendment extending lease to 2033.",
+    "source": "Sunflower Bank- Lease Amendment No. 4.pdf"
+  },
+  {
+    "field": "Options",
+    "value": "1. Right to Terminate at 20th and 40th anniversaries with 2 years' notice; 2. Removal of Improvements allowed with restoration and bond; 3. Assignment/Subletting allowed with Lessor consent; 4. Indemnification option; 5. Bona Fide Dispute clause; 6. Insurance requirements; 7. Notice provisions.",
+    "explanation": "Options from original lease; current extension has no additional options.",
+    "source": "Sunflower Bank- Lease.PDF; Sunflower Bank- Lease Amendment No. 4.pdf"
+  },
+  {
+    "field": "Use",
+    "value": "Banking purposes, including full-service bank and drive-up operations.",
+    "explanation": "Permitted use explicitly defined in the lease.",
+    "source": "Sunflower Bank- Lease.PDF"
+  },
+  {
+    "field": "Exclusive Use",
+    "value": "Tenant has exclusive right for banking use; landlord prohibited from leasing to competing financial institutions.",
+    "explanation": "Derived from exclusivity clause protecting tenant’s banking operations.",
+    "source": "Sunflower Bank- Lease.PDF"
+  },
+  {
+    "field": "Percentage Rent",
+    "value": "62.5",
+    "explanation": "The percentage rent value is specified in the lease agreement as sixty-two and one-half (62.5) times the fixed annual rent provided for in Section 26(a) of the lease for each of two consecutive lease years.",
+    "source": "Sunflower Bank- Lease Amendment No. 1.PDF', 'Sunflower Bank- Lease.PDF', 'Lease Agreement'"
+  },
+  {
+    "field": "Gross Sales",
+    "value": "Sixty-two and one-half (62.5) times the fixed annual rent",
+    "explanation": "Sunflower Bank- Lease.PDF, Lease Agreement",
+    "source": "Section 26(a) of the original lease specifies that percentage rent applies when net retail (gross) sales exceed an amount equal to sixty-two and one-half (62.5) times the fixed annual rent for two consecutive lease years."
+  },
+  {
+    "field": "Financial Statements",
+    "value": "Not available",
+    "explanation": "No clause requiring financial statements was found.",
+    "source": "All uploaded lease PDFs"
+  },
+  {
+    "field": "CAM",
+    "value": "Not applicable – ground lease; tenant maintains its own parcel.",
+    "explanation": "No shared common area cost structure; tenant fully responsible for its site.",
+    "source": "Sunflower Bank- Lease.PDF"
+  },
+  {
+    "field": "Real Estate Taxes",
+    "value": "Tenant pays all property taxes directly.Lessee pays all general taxes during lease term, prorated to rent commencement and end.",
+    "explanation": "Tax responsibility clearly assigned to tenant.",
+    "source": "Sunflower Bank- Lease.PDF"
+  },
+  {
+    "field": "Liabilities",
+    "value": "Tenant responsible for all site obligations including rent, taxes, insurance, maintenance, and indemnification of landlord.",
+    "explanation": "Summarizes key tenant obligations as defined in lease.",
+    "source": "Sunflower Bank- Lease.PDF"
+  },
+  {
+    "field": "Utilities",
+    "value": "Tenant responsible for all utilities servicing the premises.",
+    "explanation": "Standard ground lease utility responsibility.",
+    "source": "Sunflower Bank- Lease.PDF"
+  },
+{
+  "field": "Relocation",
+  "value": "Lessee may remove, replace, or reconstruct improvements on the leased premises with landlord approval under Article XII of the original lease. Additionally, under the Third Amendment (1997), Lessee has the right to relocate its pylon sign to a mutually acceptable location within five (5) years from the date of that amendment.",
+  "explanation": "The main lease grants the tenant on-site reconstruction rights, while the 1997 amendment specifically grants sign relocation rights.",
+  "source": [
+    "Sunflower Bank- Lease.PDF - Article XII (Removal or Replacement of Improvements)",
+    "Sunflower Bank- Lease Amendment No. 3.PDF - Pylon Sign Relocation Clause"
+  ]
+},
+{
+  "field": "Termination Rights",
+  "value": "Either party may terminate only upon destruction or condemnation of the premises. The landlord may also terminate if the tenant defaults and fails to cure within the notice period. No right of termination for convenience is provided.",
+  "confidence": 0.98,
+  "source": [
+    "Sunflower Bank- Lease.PDF",
+    "Sunflower Bank- Lease Amendment No. 4.pdf"
+  ],
+  "reason": "The original lease limits termination to events of default or destruction/condemnation. The Fourth Amendment reaffirms default remedies but does not introduce any termination-for-convenience clause."
+},
+  {
+    "field": "Recapture / Go Dark",
+    "value": "Not available",
+    "explanation": "No recapture or go-dark provisions identified.",
+    "source": "All uploaded lease PDFs"
+  },
+  {
+    "field": "Co-Tenancy",
+    "value": "Not available",
+    "explanation": "Lease does not include co-tenancy language.",
+    "source": "All uploaded lease PDFs"
+  },
+{
+  "field": "Radius Restriction",
+  "value": "Lessor covenants that it shall not lease or permit any portion of the premises for use as a bank, mortgage or loan association, or similar institution without prior written approval of the Lessee, except for a savings and loan branch with a floor limit of 1,000 sq ft.",
+  "explanation": "This clause prevents competing financial institutions from operating within the same shopping center, effectively serving as a radius restriction for banking operations.",
+  "source": "Sunflower Bank- Lease.PDF - Article XXVIII"
+},
+  {
+    "field": "Estoppel",
+    "value": "Tenant executed an estoppel affidavit as part of the 1997 amendment.",
+    "explanation": "Confirmed in Third Amendment to Lease.",
+    "source": "Sunflower Bank- Lease Amendment No. 3.PDF"
+  },
+  {
+    "field": "Security Deposit",
+    "value": "No security deposit required or mentioned.",
+    "explanation": "Confirmed absence across all lease documents.",
+    "source": "All uploaded lease PDFs"
+  }
+]

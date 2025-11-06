@@ -1,0 +1,1008 @@
+{
+  "East Line<SEP>South Cicero Avenue": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244305,
+    "update_time": 1762244305,
+    "_id": "East Line<SEP>South Cicero Avenue"
+  },
+  "Cook County<SEP>Southeast 1/4": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244305,
+    "update_time": 1762244305,
+    "_id": "Cook County<SEP>Southeast 1/4"
+  },
+  "North Line<SEP>Northeast 1/4": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244305,
+    "update_time": 1762244305,
+    "_id": "North Line<SEP>Northeast 1/4"
+  },
+  "Landlord<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8",
+      "chunk-bfb50c60d01533a541badfb62b9b53a4",
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52",
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4",
+      "chunk-0a893765dde0d1d6dd906350e873da44",
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9",
+      "chunk-694048df8fb988021429a00348b0982b",
+      "chunk-91ff0f6411a0928223ea958406236b4b",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac",
+      "chunk-815a405650e49d4250dcd31c57256bd1",
+      "chunk-bbef3fe8374bda117297d9278588c02b",
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f",
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 18,
+    "create_time": 1762244305,
+    "update_time": 1762244305,
+    "_id": "Landlord<SEP>Tenant"
+  },
+  "South Cicero Avenue<SEP>State Road": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244306,
+    "update_time": 1762244306,
+    "_id": "South Cicero Avenue<SEP>State Road"
+  },
+  "Intersection Point<SEP>South Cicero Avenue": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244306,
+    "update_time": 1762244306,
+    "_id": "Intersection Point<SEP>South Cicero Avenue"
+  },
+  "Northwest 1/4<SEP>Southeast 1/4": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244306,
+    "update_time": 1762244306,
+    "_id": "Northwest 1/4<SEP>Southeast 1/4"
+  },
+  "North Line of the South 6D Acres<SEP>Northwest 1/4": {
+    "chunk_ids": [
+      "chunk-61ba209ee736bf41470edce1eecac04d"
+    ],
+    "count": 1,
+    "create_time": 1762244307,
+    "update_time": 1762244307,
+    "_id": "North Line of the South 6D Acres<SEP>Northwest 1/4"
+  },
+  "Larger Tax Parcel<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244311,
+    "update_time": 1762244311,
+    "_id": "Larger Tax Parcel<SEP>Tenant"
+  },
+  "County or Municipal Assessor<SEP>Landlord": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244311,
+    "update_time": 1762244311,
+    "_id": "County or Municipal Assessor<SEP>Landlord"
+  },
+  "Premises<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8",
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-0a893765dde0d1d6dd906350e873da44",
+      "chunk-694048df8fb988021429a00348b0982b",
+      "chunk-815a405650e49d4250dcd31c57256bd1",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 8,
+    "create_time": 1762244312,
+    "update_time": 1762244312,
+    "_id": "Premises<SEP>Tenant"
+  },
+  "Landlord<SEP>Lease Term": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244312,
+    "update_time": 1762244312,
+    "_id": "Landlord<SEP>Lease Term"
+  },
+  "Demised Premises<SEP>Landlord": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244313,
+    "update_time": 1762244313,
+    "_id": "Demised Premises<SEP>Landlord"
+  },
+  "Landlord<SEP>Non-Disturbance Agreement": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244313,
+    "update_time": 1762244313,
+    "_id": "Landlord<SEP>Non-Disturbance Agreement"
+  },
+  "Minimum Annual Rent<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8",
+      "chunk-5379cbc1c98443e303236d038418300f"
+    ],
+    "count": 2,
+    "create_time": 1762244317,
+    "update_time": 1762244317,
+    "_id": "Minimum Annual Rent<SEP>Tenant"
+  },
+  "Additional Rent<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244317,
+    "update_time": 1762244317,
+    "_id": "Additional Rent<SEP>Tenant"
+  },
+  "Lease Year<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244318,
+    "update_time": 1762244318,
+    "_id": "Lease Year<SEP>Tenant"
+  },
+  "Additional Rent<SEP>Landlord": {
+    "chunk_ids": [
+      "chunk-d25f02e31196931de081edc2a6aa10b8"
+    ],
+    "count": 1,
+    "create_time": 1762244318,
+    "update_time": 1762244318,
+    "_id": "Additional Rent<SEP>Landlord"
+  },
+  "Section 2B<SEP>Southeast 1/4": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603"
+    ],
+    "count": 1,
+    "create_time": 1762244318,
+    "update_time": 1762244318,
+    "_id": "Section 2B<SEP>Southeast 1/4"
+  },
+  "Chi-Chi's of Illinois, Inc.<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4",
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 2,
+    "create_time": 1762244318,
+    "update_time": 1762244318,
+    "_id": "Chi-Chi's of Illinois, Inc.<SEP>Tenant"
+  },
+  "Cook County<SEP>Illinois": {
+    "chunk_ids": [
+      "chunk-e0c11b6fb7008a6569949048d2628603",
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 2,
+    "create_time": 1762244318,
+    "update_time": 1762244318,
+    "_id": "Cook County<SEP>Illinois"
+  },
+  "Exhibit E<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244319,
+    "update_time": 1762244319,
+    "_id": "Exhibit E<SEP>Tenant"
+  },
+  "Tenant<SEP>Title Insurance Policy": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244319,
+    "update_time": 1762244319,
+    "_id": "Tenant<SEP>Title Insurance Policy"
+  },
+  "Landlord<SEP>Premises": {
+    "chunk_ids": [
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52",
+      "chunk-0a893765dde0d1d6dd906350e873da44",
+      "chunk-694048df8fb988021429a00348b0982b",
+      "chunk-91ff0f6411a0928223ea958406236b4b",
+      "chunk-815a405650e49d4250dcd31c57256bd1"
+    ],
+    "count": 7,
+    "create_time": 1762244319,
+    "update_time": 1762244319,
+    "_id": "Landlord<SEP>Premises"
+  },
+  "Tenant<SEP>Zoning, Variance, Special Use Permits": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244320,
+    "update_time": 1762244320,
+    "_id": "Tenant<SEP>Zoning, Variance, Special Use Permits"
+  },
+  "Closing on the Sale<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-bfb50c60d01533a541badfb62b9b53a4"
+    ],
+    "count": 1,
+    "create_time": 1762244321,
+    "update_time": 1762244321,
+    "_id": "Closing on the Sale<SEP>Tenant"
+  },
+  "Gross Sales<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de"
+    ],
+    "count": 1,
+    "create_time": 1762244321,
+    "update_time": 1762244321,
+    "_id": "Gross Sales<SEP>Tenant"
+  },
+  "Principal Meridian<SEP>Southeast I/4": {
+    "chunk_ids": [
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 1,
+    "create_time": 1762244321,
+    "update_time": 1762244321,
+    "_id": "Principal Meridian<SEP>Southeast I/4"
+  },
+  "Range 13<SEP>Township 38 North": {
+    "chunk_ids": [
+      "chunk-abf40d6ca90a585370443e0959dc1f9a"
+    ],
+    "count": 1,
+    "create_time": 1762244322,
+    "update_time": 1762244322,
+    "_id": "Range 13<SEP>Township 38 North"
+  },
+  "Minimum Monthly Rent<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-694048df8fb988021429a00348b0982b",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac"
+    ],
+    "count": 3,
+    "create_time": 1762244322,
+    "update_time": 1762244322,
+    "_id": "Minimum Monthly Rent<SEP>Tenant"
+  },
+  "Common Areas<SEP>Landlord": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 2,
+    "create_time": 1762244323,
+    "update_time": 1762244323,
+    "_id": "Common Areas<SEP>Landlord"
+  },
+  "Percentage Rent<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-4220ee67a0c11b60dcc2df0e817fc7de",
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac"
+    ],
+    "count": 3,
+    "create_time": 1762244323,
+    "update_time": 1762244323,
+    "_id": "Percentage Rent<SEP>Tenant"
+  },
+  "Lease Agreement<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb"
+    ],
+    "count": 1,
+    "create_time": 1762244323,
+    "update_time": 1762244323,
+    "_id": "Lease Agreement<SEP>Tenant"
+  },
+  "Burbank Town Center Subdivision<SEP>Lot 3": {
+    "chunk_ids": [
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 1,
+    "create_time": 1762244323,
+    "update_time": 1762244323,
+    "_id": "Burbank Town Center Subdivision<SEP>Lot 3"
+  },
+  "SIC Code 302<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb"
+    ],
+    "count": 1,
+    "create_time": 1762244324,
+    "update_time": 1762244324,
+    "_id": "SIC Code 302<SEP>Tenant"
+  },
+  "Commencement Date<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-5379cbc1c98443e303236d038418300f"
+    ],
+    "count": 2,
+    "create_time": 1762244324,
+    "update_time": 1762244324,
+    "_id": "Commencement Date<SEP>Tenant"
+  },
+  "Northeast 1/4 of the Southeast 1/4<SEP>Section 28": {
+    "chunk_ids": [
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 1,
+    "create_time": 1762244324,
+    "update_time": 1762244324,
+    "_id": "Northeast 1/4 of the Southeast 1/4<SEP>Section 28"
+  },
+  "Lot 3<SEP>Section 28": {
+    "chunk_ids": [
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 1,
+    "create_time": 1762244325,
+    "update_time": 1762244325,
+    "_id": "Lot 3<SEP>Section 28"
+  },
+  "Lease Term<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-fd0f5ff5529895720fdfe302fb8cc7cb",
+      "chunk-815a405650e49d4250dcd31c57256bd1"
+    ],
+    "count": 2,
+    "create_time": 1762244325,
+    "update_time": 1762244325,
+    "_id": "Lease Term<SEP>Tenant"
+  },
+  "Section 28<SEP>Third Principal Meridian": {
+    "chunk_ids": [
+      "chunk-d150e682256bf389e60313f91f8d69f7"
+    ],
+    "count": 1,
+    "create_time": 1762244326,
+    "update_time": 1762244326,
+    "_id": "Section 28<SEP>Third Principal Meridian"
+  },
+  "Mortgagee<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 2,
+    "create_time": 1762244326,
+    "update_time": 1762244326,
+    "_id": "Mortgagee<SEP>Tenant"
+  },
+  "Insurance Policies<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2"
+    ],
+    "count": 1,
+    "create_time": 1762244327,
+    "update_time": 1762244327,
+    "_id": "Insurance Policies<SEP>Tenant"
+  },
+  "Landlord<SEP>Mortgagee": {
+    "chunk_ids": [
+      "chunk-de987545cab0a9499e12bf58c92d2ce2",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 2,
+    "create_time": 1762244327,
+    "update_time": 1762244327,
+    "_id": "Landlord<SEP>Mortgagee"
+  },
+  "Landlord<SEP>Mutual Waiver of Subrogation Rights": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244328,
+    "update_time": 1762244328,
+    "_id": "Landlord<SEP>Mutual Waiver of Subrogation Rights"
+  },
+  "Required Completion Date<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-5379cbc1c98443e303236d038418300f"
+    ],
+    "count": 1,
+    "create_time": 1762244328,
+    "update_time": 1762244328,
+    "_id": "Required Completion Date<SEP>Tenant"
+  },
+  "Cook County<SEP>South Cicero Avenue": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244328,
+    "update_time": 1762244328,
+    "_id": "Cook County<SEP>South Cicero Avenue"
+  },
+  "Common Areas<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-5379cbc1c98443e303236d038418300f",
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 2,
+    "create_time": 1762244329,
+    "update_time": 1762244329,
+    "_id": "Common Areas<SEP>Tenant"
+  },
+  "Comprehensive General Liability Policy<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244329,
+    "update_time": 1762244329,
+    "_id": "Comprehensive General Liability Policy<SEP>Tenant"
+  },
+  "Builder's Risk Insurance<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244330,
+    "update_time": 1762244330,
+    "_id": "Builder's Risk Insurance<SEP>Tenant"
+  },
+  "The Center<SEP>Tractor Trailers": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244330,
+    "update_time": 1762244330,
+    "_id": "The Center<SEP>Tractor Trailers"
+  },
+  "Tenant<SEP>Workman's Compensation and Occupational Disease Insurance": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244331,
+    "update_time": 1762244331,
+    "_id": "Tenant<SEP>Workman's Compensation and Occupational Disease Insurance"
+  },
+  "Center<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-9cc5f85d094931cc3acfa4c9fa17cb52"
+    ],
+    "count": 1,
+    "create_time": 1762244332,
+    "update_time": 1762244332,
+    "_id": "Center<SEP>Tenant"
+  },
+  "Common Area<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244333,
+    "update_time": 1762244333,
+    "_id": "Common Area<SEP>Tenant"
+  },
+  "Deliveries<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244333,
+    "update_time": 1762244333,
+    "_id": "Deliveries<SEP>Tenant"
+  },
+  "Tenant<SEP>Waste Disposal": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244335,
+    "update_time": 1762244335,
+    "_id": "Tenant<SEP>Waste Disposal"
+  },
+  "Landlord<SEP>Operating Agreements": {
+    "chunk_ids": [
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9"
+    ],
+    "count": 1,
+    "create_time": 1762244335,
+    "update_time": 1762244335,
+    "_id": "Landlord<SEP>Operating Agreements"
+  },
+  "Tenant<SEP>The Center": {
+    "chunk_ids": [
+      "chunk-f02b0f5ffb9ed85532e8f52111f18af4"
+    ],
+    "count": 1,
+    "create_time": 1762244336,
+    "update_time": 1762244336,
+    "_id": "Tenant<SEP>The Center"
+  },
+  "Dramshop Insurance<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-0a893765dde0d1d6dd906350e873da44"
+    ],
+    "count": 1,
+    "create_time": 1762244336,
+    "update_time": 1762244336,
+    "_id": "Dramshop Insurance<SEP>Tenant"
+  },
+  "Landlord<SEP>Minimum Annual Rent": {
+    "chunk_ids": [
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9"
+    ],
+    "count": 1,
+    "create_time": 1762244336,
+    "update_time": 1762244336,
+    "_id": "Landlord<SEP>Minimum Annual Rent"
+  },
+  "Illinois<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-0a893765dde0d1d6dd906350e873da44"
+    ],
+    "count": 1,
+    "create_time": 1762244337,
+    "update_time": 1762244337,
+    "_id": "Illinois<SEP>Tenant"
+  },
+  "Chemical Extinguishing Devices<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-0a893765dde0d1d6dd906350e873da44"
+    ],
+    "count": 1,
+    "create_time": 1762244338,
+    "update_time": 1762244338,
+    "_id": "Chemical Extinguishing Devices<SEP>Tenant"
+  },
+  "Casualty<SEP>Premises": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244338,
+    "update_time": 1762244338,
+    "_id": "Casualty<SEP>Premises"
+  },
+  "Tenant<SEP>Underwriters Laboratories": {
+    "chunk_ids": [
+      "chunk-0a893765dde0d1d6dd906350e873da44"
+    ],
+    "count": 1,
+    "create_time": 1762244338,
+    "update_time": 1762244338,
+    "_id": "Tenant<SEP>Underwriters Laboratories"
+  },
+  "Factory Mutual Insurance Company<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-0a893765dde0d1d6dd906350e873da44"
+    ],
+    "count": 1,
+    "create_time": 1762244339,
+    "update_time": 1762244339,
+    "_id": "Factory Mutual Insurance Company<SEP>Tenant"
+  },
+  "Easements<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9"
+    ],
+    "count": 1,
+    "create_time": 1762244339,
+    "update_time": 1762244339,
+    "_id": "Easements<SEP>Tenant"
+  },
+  "Lease<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-0cd1c05b23b54cde141148f7c9efe0a9",
+      "chunk-91ff0f6411a0928223ea958406236b4b",
+      "chunk-815a405650e49d4250dcd31c57256bd1"
+    ],
+    "count": 3,
+    "create_time": 1762244340,
+    "update_time": 1762244340,
+    "_id": "Lease<SEP>Tenant"
+  },
+  "Eminent Domain<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244340,
+    "update_time": 1762244340,
+    "_id": "Eminent Domain<SEP>Tenant"
+  },
+  "Landlord<SEP>Lease": {
+    "chunk_ids": [
+      "chunk-91ff0f6411a0928223ea958406236b4b",
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac",
+      "chunk-815a405650e49d4250dcd31c57256bd1"
+    ],
+    "count": 3,
+    "create_time": 1762244340,
+    "update_time": 1762244340,
+    "_id": "Landlord<SEP>Lease"
+  },
+  "Improvements<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244341,
+    "update_time": 1762244341,
+    "_id": "Improvements<SEP>Tenant"
+  },
+  "Landlord<SEP>Legal Proceedings": {
+    "chunk_ids": [
+      "chunk-91ff0f6411a0928223ea958406236b4b"
+    ],
+    "count": 1,
+    "create_time": 1762244341,
+    "update_time": 1762244341,
+    "_id": "Landlord<SEP>Legal Proceedings"
+  },
+  "Fixtures<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244342,
+    "update_time": 1762244342,
+    "_id": "Fixtures<SEP>Tenant"
+  },
+  "Center<SEP>Landlord": {
+    "chunk_ids": [
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac",
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 2,
+    "create_time": 1762244342,
+    "update_time": 1762244342,
+    "_id": "Center<SEP>Landlord"
+  },
+  "Furnishings<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244342,
+    "update_time": 1762244342,
+    "_id": "Furnishings<SEP>Tenant"
+  },
+  "Landlord<SEP>Lien": {
+    "chunk_ids": [
+      "chunk-815a405650e49d4250dcd31c57256bd1"
+    ],
+    "count": 1,
+    "create_time": 1762244342,
+    "update_time": 1762244342,
+    "_id": "Landlord<SEP>Lien"
+  },
+  "Floor Covering<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244343,
+    "update_time": 1762244343,
+    "_id": "Floor Covering<SEP>Tenant"
+  },
+  "Common Area Costs<SEP>Landlord": {
+    "chunk_ids": [
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 1,
+    "create_time": 1762244343,
+    "update_time": 1762244343,
+    "_id": "Common Area Costs<SEP>Landlord"
+  },
+  "Tenant<SEP>Wall Covering": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244344,
+    "update_time": 1762244344,
+    "_id": "Tenant<SEP>Wall Covering"
+  },
+  "Landlord<SEP>Landlord's Tract": {
+    "chunk_ids": [
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 1,
+    "create_time": 1762244344,
+    "update_time": 1762244344,
+    "_id": "Landlord<SEP>Landlord's Tract"
+  },
+  "Drapes<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-694048df8fb988021429a00348b0982b"
+    ],
+    "count": 1,
+    "create_time": 1762244344,
+    "update_time": 1762244344,
+    "_id": "Drapes<SEP>Tenant"
+  },
+  "Management Properties, Inc.<SEP>Transportation Plaza Associates": {
+    "chunk_ids": [
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f"
+    ],
+    "count": 1,
+    "create_time": 1762244344,
+    "update_time": 1762244344,
+    "_id": "Management Properties, Inc.<SEP>Transportation Plaza Associates"
+  },
+  "General Mills Restaurants, Inc.<SEP>Lease Agreement": {
+    "chunk_ids": [
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f"
+    ],
+    "count": 1,
+    "create_time": 1762244344,
+    "update_time": 1762244344,
+    "_id": "General Mills Restaurants, Inc.<SEP>Lease Agreement"
+  },
+  "First Mortgagee<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-91ff0f6411a0928223ea958406236b4b"
+    ],
+    "count": 1,
+    "create_time": 1762244345,
+    "update_time": 1762244345,
+    "_id": "First Mortgagee<SEP>Tenant"
+  },
+  "Indianapolis, Indiana<SEP>Transportation Plaza Associates": {
+    "chunk_ids": [
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f"
+    ],
+    "count": 1,
+    "create_time": 1762244345,
+    "update_time": 1762244345,
+    "_id": "Indianapolis, Indiana<SEP>Transportation Plaza Associates"
+  },
+  "Italian Food<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac"
+    ],
+    "count": 1,
+    "create_time": 1762244345,
+    "update_time": 1762244345,
+    "_id": "Italian Food<SEP>Tenant"
+  },
+  "General Mills Restaurants, Inc.<SEP>Lease": {
+    "chunk_ids": [
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 1,
+    "create_time": 1762244345,
+    "update_time": 1762244345,
+    "_id": "General Mills Restaurants, Inc.<SEP>Lease"
+  },
+  "Tenant<SEP>Williams-Steiger Occupational Safety and Health Act": {
+    "chunk_ids": [
+      "chunk-13715daadd04dc56f38a4fd19a5e84ac"
+    ],
+    "count": 1,
+    "create_time": 1762244346,
+    "update_time": 1762244346,
+    "_id": "Tenant<SEP>Williams-Steiger Occupational Safety and Health Act"
+  },
+  "General Mills Restaurants, Inc.<SEP>Richard D. Halterman": {
+    "chunk_ids": [
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 1,
+    "create_time": 1762244346,
+    "update_time": 1762244346,
+    "_id": "General Mills Restaurants, Inc.<SEP>Richard D. Halterman"
+  },
+  "Stamford, Connecticut<SEP>Transportation Plaza Associates": {
+    "chunk_ids": [
+      "chunk-13f199f58ba5d1659560ea1ca3732f6f"
+    ],
+    "count": 1,
+    "create_time": 1762244346,
+    "update_time": 1762244346,
+    "_id": "Stamford, Connecticut<SEP>Transportation Plaza Associates"
+  },
+  "Illinois<SEP>Lease": {
+    "chunk_ids": [
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 1,
+    "create_time": 1762244346,
+    "update_time": 1762244346,
+    "_id": "Illinois<SEP>Lease"
+  },
+  "Tenant<SEP>Utilities": {
+    "chunk_ids": [
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 1,
+    "create_time": 1762244347,
+    "update_time": 1762244347,
+    "_id": "Tenant<SEP>Utilities"
+  },
+  "General Mills Restaurants, Inc.<SEP>Martin N. Goldsmith": {
+    "chunk_ids": [
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 1,
+    "create_time": 1762244347,
+    "update_time": 1762244347,
+    "_id": "General Mills Restaurants, Inc.<SEP>Martin N. Goldsmith"
+  },
+  "Transportation Plaza Associates<SEP>Transportation Plaza, Inc.": {
+    "chunk_ids": [
+      "chunk-45ba4e0e1c647b423fffb2ad1ea2e89a"
+    ],
+    "count": 1,
+    "create_time": 1762244347,
+    "update_time": 1762244347,
+    "_id": "Transportation Plaza Associates<SEP>Transportation Plaza, Inc."
+  },
+  "Exhibit F<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-bbef3fe8374bda117297d9278588c02b"
+    ],
+    "count": 1,
+    "create_time": 1762244347,
+    "update_time": 1762244347,
+    "_id": "Exhibit F<SEP>Tenant"
+  },
+  "Burbank Town Center<SEP>Lease Agreement": {
+    "chunk_ids": [
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 1,
+    "create_time": 1762244347,
+    "update_time": 1762244347,
+    "_id": "Burbank Town Center<SEP>Lease Agreement"
+  },
+  "General Mills Restaurants, Inc.<SEP>Transportation Plaza Associates": {
+    "chunk_ids": [
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 1,
+    "create_time": 1762244347,
+    "update_time": 1762244347,
+    "_id": "General Mills Restaurants, Inc.<SEP>Transportation Plaza Associates"
+  },
+  "Lease Agreement<SEP>Lease Term": {
+    "chunk_ids": [
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 1,
+    "create_time": 1762244348,
+    "update_time": 1762244348,
+    "_id": "Lease Agreement<SEP>Lease Term"
+  },
+  "General Mills Restaurants, Inc.<SEP>Tenant's Plans": {
+    "chunk_ids": [
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 1,
+    "create_time": 1762244348,
+    "update_time": 1762244348,
+    "_id": "General Mills Restaurants, Inc.<SEP>Tenant's Plans"
+  },
+  "Mortgage<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 1,
+    "create_time": 1762244348,
+    "update_time": 1762244348,
+    "_id": "Mortgage<SEP>Tenant"
+  },
+  "Mechanics' Lien<SEP>Tenant": {
+    "chunk_ids": [
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 1,
+    "create_time": 1762244348,
+    "update_time": 1762244348,
+    "_id": "Mechanics' Lien<SEP>Tenant"
+  },
+  "General Mills Restaurants, Inc.<SEP>Zoning, Variance, Special Use Permits": {
+    "chunk_ids": [
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 1,
+    "create_time": 1762244349,
+    "update_time": 1762244349,
+    "_id": "General Mills Restaurants, Inc.<SEP>Zoning, Variance, Special Use Permits"
+  },
+  "Landlord<SEP>Mechanics' Lien": {
+    "chunk_ids": [
+      "chunk-39b82dd6feb7b5700a0645db9a9c143b"
+    ],
+    "count": 1,
+    "create_time": 1762244349,
+    "update_time": 1762244349,
+    "_id": "Landlord<SEP>Mechanics' Lien"
+  },
+  "Chi-Chi's of Illinois, Inc.<SEP>General Mills Restaurants, Inc.": {
+    "chunk_ids": [
+      "chunk-38ff58b0b997721c070d80a239ececa9"
+    ],
+    "count": 1,
+    "create_time": 1762244349,
+    "update_time": 1762244349,
+    "_id": "Chi-Chi's of Illinois, Inc.<SEP>General Mills Restaurants, Inc."
+  },
+  "GMRI, Inc.<SEP>Transportation Plaza Associates": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263750,
+    "_id": "GMRI, Inc.<SEP>Transportation Plaza Associates"
+  },
+  "Effective Date<SEP>Lease": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263750,
+    "_id": "Effective Date<SEP>Lease"
+  },
+  "Lease<SEP>Lease Amendment": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263751,
+    "_id": "Lease<SEP>Lease Amendment"
+  },
+  "Mid-America Asset Management, Inc.<SEP>Transportation Plaza Associates": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263751,
+    "_id": "Mid-America Asset Management, Inc.<SEP>Transportation Plaza Associates"
+  },
+  "GMRI, Inc.<SEP>Mid-America Asset Management, Inc.": {
+    "chunk_ids": [
+      "chunk-36b041650efff298cc2fc2798d830419"
+    ],
+    "count": 1,
+    "update_time": 1762263752,
+    "_id": "GMRI, Inc.<SEP>Mid-America Asset Management, Inc."
+  }
+}
